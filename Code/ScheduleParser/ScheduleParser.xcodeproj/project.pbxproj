@@ -296,6 +296,7 @@
 					"LOG_HTTP_RESPONSE=0",
 					"PRINT_EACH_VALIDATED_STATION=0",
 				);
+				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2/**";
 				INSTALL_PATH = /usr/local/bin;
 				PRODUCT_NAME = ScheduleParser;
 			};
@@ -309,6 +310,7 @@
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ScheduleParser_Prefix.pch;
+				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2/**";
 				INSTALL_PATH = /usr/local/bin;
 				OTHER_LDFLAGS = "-lxml2";
 				PRODUCT_NAME = ScheduleParser;

@@ -16,6 +16,21 @@
 		2840D7CE1179279E00D7F93C /* UnionStationView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2840D7CD1179279E00D7F93C /* UnionStationView.xib */; };
 		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
 		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
+		85D78FAA1580F0B40038140E /* Barrie_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78F9B1580F0AD0038140E /* Barrie_Disabled.png */; };
+		85D78FAB1580F0B40038140E /* Barrie_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78F9C1580F0AD0038140E /* Barrie_Unclicked.png */; };
+		85D78FAC1580F0B40038140E /* Georgetown_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78F9D1580F0AE0038140E /* Georgetown_Disabled.png */; };
+		85D78FAD1580F0B40038140E /* Georgetown_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78F9E1580F0AE0038140E /* Georgetown_Unclicked.png */; };
+		85D78FAE1580F0B40038140E /* Joint.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78F9F1580F0AE0038140E /* Joint.png */; };
+		85D78FAF1580F0B40038140E /* Lakeshore-East_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA01580F0AF0038140E /* Lakeshore-East_Disabled.png */; };
+		85D78FB01580F0B40038140E /* Lakeshore-East_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA11580F0AF0038140E /* Lakeshore-East_Unclicked.png */; };
+		85D78FB11580F0B40038140E /* Lakeshore-West_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA21580F0B00038140E /* Lakeshore-West_Disabled.png */; };
+		85D78FB21580F0B40038140E /* Lakeshore-West_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA31580F0B00038140E /* Lakeshore-West_Unclicked.png */; };
+		85D78FB31580F0B40038140E /* Milton_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA41580F0B10038140E /* Milton_Disabled.png */; };
+		85D78FB41580F0B40038140E /* Milton_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA51580F0B10038140E /* Milton_Unclicked.png */; };
+		85D78FB51580F0B40038140E /* Richmond-Hill_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA61580F0B20038140E /* Richmond-Hill_Disabled.png */; };
+		85D78FB61580F0B40038140E /* Richmond-Hill_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA71580F0B20038140E /* Richmond-Hill_Unclicked.png */; };
+		85D78FB71580F0B40038140E /* Stouffville_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA81580F0B20038140E /* Stouffville_Disabled.png */; };
+		85D78FB81580F0B40038140E /* Stouffville_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 85D78FA91580F0B30038140E /* Stouffville_Unclicked.png */; };
 		A60009E9134768E400DE2F3D /* GoStationFeedInterpreter.m in Sources */ = {isa = PBXBuildFile; fileRef = A60009E8134768E400DE2F3D /* GoStationFeedInterpreter.m */; };
 		A6003E291328A0E800DEA04B /* CameraFeedInterpreter.m in Sources */ = {isa = PBXBuildFile; fileRef = A6003E281328A0E800DEA04B /* CameraFeedInterpreter.m */; };
 		A6003E2C13290F9900DEA04B /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = A6003E2B13290F9900DEA04B /* pin.png */; };
@@ -227,21 +242,6 @@
 		A6EAD5DD128ACD2300CBA963 /* CDRoute+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = A6EAD5DC128ACD2300CBA963 /* CDRoute+Extension.m */; };
 		A6ED6A9012DCE91F00958359 /* HelpScreenTopRight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A6ED6A8E12DCE91F00958359 /* HelpScreenTopRight@2x.png */; };
 		A6ED6A9112DCE91F00958359 /* HelpScreenTopRight.png in Resources */ = {isa = PBXBuildFile; fileRef = A6ED6A8F12DCE91F00958359 /* HelpScreenTopRight.png */; };
-		A6F1268E1274A9AB009C3192 /* Barrie_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126811274A9AB009C3192 /* Barrie_Disabled.png */; };
-		A6F1268F1274A9AB009C3192 /* Barrie_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126821274A9AB009C3192 /* Barrie_Unclicked.png */; };
-		A6F126901274A9AB009C3192 /* Georgetown_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126831274A9AB009C3192 /* Georgetown_Disabled.png */; };
-		A6F126911274A9AB009C3192 /* Georgetown_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126841274A9AB009C3192 /* Georgetown_Unclicked.png */; };
-		A6F126921274A9AB009C3192 /* Joint.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126851274A9AB009C3192 /* Joint.png */; };
-		A6F126931274A9AB009C3192 /* Lakeshore-East_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126861274A9AB009C3192 /* Lakeshore-East_Disabled.png */; };
-		A6F126941274A9AB009C3192 /* Lakeshore-East_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126871274A9AB009C3192 /* Lakeshore-East_Unclicked.png */; };
-		A6F126951274A9AB009C3192 /* Lakeshore-West_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126881274A9AB009C3192 /* Lakeshore-West_Disabled.png */; };
-		A6F126961274A9AB009C3192 /* Lakeshore-West_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126891274A9AB009C3192 /* Lakeshore-West_Unclicked.png */; };
-		A6F126971274A9AB009C3192 /* Milton_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1268A1274A9AB009C3192 /* Milton_Disabled.png */; };
-		A6F126981274A9AB009C3192 /* Milton_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1268B1274A9AB009C3192 /* Milton_Unclicked.png */; };
-		A6F126991274A9AB009C3192 /* Richmond-Hill_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1268C1274A9AB009C3192 /* Richmond-Hill_Disabled.png */; };
-		A6F1269A1274A9AB009C3192 /* Richmond-Hill_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1268D1274A9AB009C3192 /* Richmond-Hill_Unclicked.png */; };
-		A6F126A11274AE85009C3192 /* Stouffville_Disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1269F1274AE85009C3192 /* Stouffville_Disabled.png */; };
-		A6F126A21274AE85009C3192 /* Stouffville_Unclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F126A01274AE85009C3192 /* Stouffville_Unclicked.png */; };
 		A6F15048131BDCB5003D9265 /* iGoTorontoLite-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6F15047131BDCB5003D9265 /* iGoTorontoLite-Info.plist */; };
 		A6F1504B131C7FB6003D9265 /* iconLite.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F15049131C7FB6003D9265 /* iconLite.png */; };
 		A6F1504C131C7FB6003D9265 /* iconLite@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A6F1504A131C7FB6003D9265 /* iconLite@2x.png */; };
@@ -307,6 +307,21 @@
 		28A0AB4B0D9B1048005BE974 /* iGoToronto_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iGoToronto_Prefix.pch; sourceTree = "<group>"; };
 		28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		85D78F9B1580F0AD0038140E /* Barrie_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Barrie_Disabled.png; path = ../../Assets/Map/Barrie_Disabled.png; sourceTree = "<group>"; };
+		85D78F9C1580F0AD0038140E /* Barrie_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Barrie_Unclicked.png; path = ../../Assets/Map/Barrie_Unclicked.png; sourceTree = "<group>"; };
+		85D78F9D1580F0AE0038140E /* Georgetown_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Georgetown_Disabled.png; path = ../../Assets/Map/Georgetown_Disabled.png; sourceTree = "<group>"; };
+		85D78F9E1580F0AE0038140E /* Georgetown_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Georgetown_Unclicked.png; path = ../../Assets/Map/Georgetown_Unclicked.png; sourceTree = "<group>"; };
+		85D78F9F1580F0AE0038140E /* Joint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Joint.png; path = ../../Assets/Map/Joint.png; sourceTree = "<group>"; };
+		85D78FA01580F0AF0038140E /* Lakeshore-East_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-East_Disabled.png"; path = "../../Assets/Map/Lakeshore-East_Disabled.png"; sourceTree = "<group>"; };
+		85D78FA11580F0AF0038140E /* Lakeshore-East_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-East_Unclicked.png"; path = "../../Assets/Map/Lakeshore-East_Unclicked.png"; sourceTree = "<group>"; };
+		85D78FA21580F0B00038140E /* Lakeshore-West_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-West_Disabled.png"; path = "../../Assets/Map/Lakeshore-West_Disabled.png"; sourceTree = "<group>"; };
+		85D78FA31580F0B00038140E /* Lakeshore-West_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-West_Unclicked.png"; path = "../../Assets/Map/Lakeshore-West_Unclicked.png"; sourceTree = "<group>"; };
+		85D78FA41580F0B10038140E /* Milton_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Milton_Disabled.png; path = ../../Assets/Map/Milton_Disabled.png; sourceTree = "<group>"; };
+		85D78FA51580F0B10038140E /* Milton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Milton_Unclicked.png; path = ../../Assets/Map/Milton_Unclicked.png; sourceTree = "<group>"; };
+		85D78FA61580F0B20038140E /* Richmond-Hill_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Richmond-Hill_Disabled.png"; path = "../../Assets/Map/Richmond-Hill_Disabled.png"; sourceTree = "<group>"; };
+		85D78FA71580F0B20038140E /* Richmond-Hill_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Richmond-Hill_Unclicked.png"; path = "../../Assets/Map/Richmond-Hill_Unclicked.png"; sourceTree = "<group>"; };
+		85D78FA81580F0B20038140E /* Stouffville_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Stouffville_Disabled.png; path = ../../Assets/Map/Stouffville_Disabled.png; sourceTree = "<group>"; };
+		85D78FA91580F0B30038140E /* Stouffville_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Stouffville_Unclicked.png; path = ../../Assets/Map/Stouffville_Unclicked.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* iGoToronto-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iGoToronto-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		A60009E7134768E400DE2F3D /* GoStationFeedInterpreter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoStationFeedInterpreter.h; sourceTree = "<group>"; };
 		A60009E8134768E400DE2F3D /* GoStationFeedInterpreter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoStationFeedInterpreter.m; sourceTree = "<group>"; };
@@ -317,7 +332,7 @@
 		A6003E311329103900DEA04B /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
 		A6085A99131244CA0065C22A /* weather_icon_fog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weather_icon_fog.png; sourceTree = "<group>"; };
 		A608DD80128C73CF00DEDDC3 /* ScheduleParser.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = ScheduleParser.sqlite; path = ../ScheduleParser/DerivedData/ScheduleParser/Build/Products/Debug/ScheduleParser.sqlite; sourceTree = SOURCE_ROOT; };
-		A608DD82128C745800DEDDC3 /* ScheduleParser.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; name = ScheduleParser.xcdatamodel; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/ScheduleParser.xcdatamodel"; sourceTree = "<absolute>"; };
+		A608DD82128C745800DEDDC3 /* ScheduleParser.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; name = ScheduleParser.xcdatamodel; path = ../ScheduleParser/ScheduleParser.xcdatamodel; sourceTree = SOURCE_ROOT; };
 		A60C236912D81B6100469324 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../../Assets/Default.png; sourceTree = SOURCE_ROOT; };
 		A60C236A12D81B6100469324 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = ../../Assets/Background.png; sourceTree = SOURCE_ROOT; };
 		A60C236B12D81B6100469324 /* Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Background@2x.png"; path = "../../Assets/Background@2x.png"; sourceTree = SOURCE_ROOT; };
@@ -332,14 +347,14 @@
 		A61362A613541FC20003C313 /* GTMNSString+HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GTMNSString+HTML.m"; sourceTree = "<group>"; };
 		A61362A713541FC30003C313 /* GTMNSString+HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GTMNSString+HTML.h"; sourceTree = "<group>"; };
 		A61362A813541FC40003C313 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
-		A615FCBD128C5F9700565FD4 /* CDLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDLine.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDLine.h"; sourceTree = "<absolute>"; };
-		A615FCBE128C5F9700565FD4 /* CDLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDLine.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDLine.m"; sourceTree = "<absolute>"; };
-		A615FCBF128C5F9700565FD4 /* CDRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDRoute.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDRoute.h"; sourceTree = "<absolute>"; };
-		A615FCC0128C5F9700565FD4 /* CDRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDRoute.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDRoute.m"; sourceTree = "<absolute>"; };
-		A615FCC1128C5F9700565FD4 /* CDStation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDStation.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDStation.h"; sourceTree = "<absolute>"; };
-		A615FCC2128C5F9700565FD4 /* CDStation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDStation.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDStation.m"; sourceTree = "<absolute>"; };
-		A615FCC3128C5F9700565FD4 /* CDStop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDStop.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDStop.h"; sourceTree = "<absolute>"; };
-		A615FCC4128C5F9700565FD4 /* CDStop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDStop.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDStop.m"; sourceTree = "<absolute>"; };
+		A615FCBD128C5F9700565FD4 /* CDLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDLine.h; path = ../ScheduleParser/CDLine.h; sourceTree = SOURCE_ROOT; };
+		A615FCBE128C5F9700565FD4 /* CDLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDLine.m; path = ../ScheduleParser/CDLine.m; sourceTree = SOURCE_ROOT; };
+		A615FCBF128C5F9700565FD4 /* CDRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDRoute.h; path = ../ScheduleParser/CDRoute.h; sourceTree = SOURCE_ROOT; };
+		A615FCC0128C5F9700565FD4 /* CDRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDRoute.m; path = ../ScheduleParser/CDRoute.m; sourceTree = SOURCE_ROOT; };
+		A615FCC1128C5F9700565FD4 /* CDStation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDStation.h; path = ../ScheduleParser/CDStation.h; sourceTree = SOURCE_ROOT; };
+		A615FCC2128C5F9700565FD4 /* CDStation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDStation.m; path = ../ScheduleParser/CDStation.m; sourceTree = SOURCE_ROOT; };
+		A615FCC3128C5F9700565FD4 /* CDStop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDStop.h; path = ../ScheduleParser/CDStop.h; sourceTree = SOURCE_ROOT; };
+		A615FCC4128C5F9700565FD4 /* CDStop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDStop.m; path = ../ScheduleParser/CDStop.m; sourceTree = SOURCE_ROOT; };
 		A619A9B91359E88F00A5060C /* ScarboroughRTButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ScarboroughRTButton_Clicked.png; path = "../../Assets/Subway Map/ScarboroughRTButton_Clicked.png"; sourceTree = "<group>"; };
 		A619A9BA1359E88F00A5060C /* ScarboroughRTButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ScarboroughRTButton.png; path = "../../Assets/Subway Map/ScarboroughRTButton.png"; sourceTree = "<group>"; };
 		A619A9BB1359E88F00A5060C /* sheppardStationButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sheppardStationButton_Clicked.png; path = "../../Assets/Subway Map/sheppardStationButton_Clicked.png"; sourceTree = "<group>"; };
@@ -503,8 +518,8 @@
 		A693692712C1DBF30034E8E7 /* SubwayTab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SubwayTab@2x.png"; path = "../../Assets/SubwayTab@2x.png"; sourceTree = SOURCE_ROOT; };
 		A693692B12C1DC390034E8E7 /* SubwayMap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SubwayMap.png; path = "../../Assets/Subway Map/SubwayMap.png"; sourceTree = SOURCE_ROOT; };
 		A693693112C1DC770034E8E7 /* SubwayViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SubwayViewController.xib; sourceTree = "<group>"; };
-		A698412112A4FFCA00D8FE8A /* BarrieStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BarrieStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/BarrieStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A698412212A4FFCA00D8FE8A /* BarrieStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BarrieStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/BarrieStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A698412112A4FFCA00D8FE8A /* BarrieStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BarrieStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/BarrieStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A698412212A4FFCA00D8FE8A /* BarrieStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BarrieStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/BarrieStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
 		A69F8BF5126A6B0800EBB123 /* StationStopView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StationStopView.xib; sourceTree = "<group>"; };
 		A6A32EA412EC88BE00282D57 /* SubwayStationPopupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubwayStationPopupViewController.h; sourceTree = "<group>"; };
 		A6A32EA512EC88BE00282D57 /* SubwayStationPopupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubwayStationPopupViewController.m; sourceTree = "<group>"; };
@@ -561,16 +576,16 @@
 		A6C04C9D12DABD3300EAC060 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../Assets/Icon.png; sourceTree = SOURCE_ROOT; };
 		A6C2984B12C4F012003D1D82 /* CDDayType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDDayType.m; path = ../ScheduleParser/CDDayType.m; sourceTree = SOURCE_ROOT; };
 		A6C2984C12C4F012003D1D82 /* CDDayType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDDayType.h; path = ../ScheduleParser/CDDayType.h; sourceTree = SOURCE_ROOT; };
-		A6C4B72B129DEDA70031CAEE /* CDFactoid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDFactoid.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDFactoid.m"; sourceTree = "<absolute>"; };
-		A6C4B72C129DEDA70031CAEE /* CDFactoid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDFactoid.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDFactoid.h"; sourceTree = "<absolute>"; };
-		A6CB38A512A5181500E57355 /* RichmondHillStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RichmondHillStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/RichmondHillStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6CB38A612A5181500E57355 /* RichmondHillStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RichmondHillStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/RichmondHillStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6CB38A912A520D300E57355 /* LakeshoreEastStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreEastStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/LakeshoreEastStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6CB38AA12A520D300E57355 /* LakeshoreEastStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreEastStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/LakeshoreEastStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6CB38AD12A5278D00E57355 /* StouffvilleStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StouffvilleStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/StouffvilleStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6CB38AE12A5278D00E57355 /* StouffvilleStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StouffvilleStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/StouffvilleStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6CB38B112A5FFAA00E57355 /* CDEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDEntity.m; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDEntity.m"; sourceTree = "<absolute>"; };
-		A6CB38B212A5FFAA00E57355 /* CDEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDEntity.h; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Code/ScheduleParser/CDEntity.h"; sourceTree = "<absolute>"; };
+		A6C4B72B129DEDA70031CAEE /* CDFactoid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDFactoid.m; path = ../ScheduleParser/CDFactoid.m; sourceTree = SOURCE_ROOT; };
+		A6C4B72C129DEDA70031CAEE /* CDFactoid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDFactoid.h; path = ../ScheduleParser/CDFactoid.h; sourceTree = SOURCE_ROOT; };
+		A6CB38A512A5181500E57355 /* RichmondHillStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RichmondHillStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/RichmondHillStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6CB38A612A5181500E57355 /* RichmondHillStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RichmondHillStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/RichmondHillStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6CB38A912A520D300E57355 /* LakeshoreEastStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreEastStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/LakeshoreEastStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6CB38AA12A520D300E57355 /* LakeshoreEastStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreEastStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/LakeshoreEastStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6CB38AD12A5278D00E57355 /* StouffvilleStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StouffvilleStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/StouffvilleStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6CB38AE12A5278D00E57355 /* StouffvilleStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StouffvilleStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/StouffvilleStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6CB38B112A5FFAA00E57355 /* CDEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDEntity.m; path = ../ScheduleParser/CDEntity.m; sourceTree = SOURCE_ROOT; };
+		A6CB38B212A5FFAA00E57355 /* CDEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDEntity.h; path = ../ScheduleParser/CDEntity.h; sourceTree = SOURCE_ROOT; };
 		A6CDB10212654F2A00C607B0 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		A6CDB11A1265551F00C607B0 /* BackButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackButton_Clicked.png; sourceTree = "<group>"; };
 		A6CDB11C1265551F00C607B0 /* ForwardButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ForwardButton_Clicked.png; sourceTree = "<group>"; };
@@ -578,12 +593,12 @@
 		A6D208F113251D66004A6586 /* iGoGradientButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iGoGradientButton.m; sourceTree = "<group>"; };
 		A6D208F41325B1E4004A6586 /* GradientView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GradientView.m; sourceTree = "<group>"; };
 		A6D208F51325B1E4004A6586 /* GradientView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GradientView.h; sourceTree = "<group>"; };
-		A6D21FEF12AC1AAC00EE45B0 /* GeorgetownStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GeorgetownStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/GeorgetownStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6D21FF012AC1AAC00EE45B0 /* GeorgetownStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GeorgetownStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/GeorgetownStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6D21FF312AC1CCA00EE45B0 /* LakeshoreWestStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreWestStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/LakeshoreWestStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6D21FF412AC1CCA00EE45B0 /* LakeshoreWestStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreWestStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/LakeshoreWestStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6D21FF512AC1CCA00EE45B0 /* MiltonStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MiltonStationsButton_Clicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/MiltonStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
-		A6D21FF612AC1CCA00EE45B0 /* MiltonStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MiltonStationsButton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Go Station Buttons/MiltonStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6D21FEF12AC1AAC00EE45B0 /* GeorgetownStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GeorgetownStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/GeorgetownStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6D21FF012AC1AAC00EE45B0 /* GeorgetownStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GeorgetownStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/GeorgetownStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6D21FF312AC1CCA00EE45B0 /* LakeshoreWestStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LakeshoreWestStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/LakeshoreWestStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
+		A6D21FF412AC1CCA00EE45B0 /* LakeshoreWestStationsButton_Clicked.png */ = {isa = PBXFileReference; explicitFileType = image.png; name = LakeshoreWestStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/LakeshoreWestStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6D21FF512AC1CCA00EE45B0 /* MiltonStationsButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MiltonStationsButton_Clicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/MiltonStationsButton_Clicked.png"; sourceTree = "<absolute>"; };
+		A6D21FF612AC1CCA00EE45B0 /* MiltonStationsButton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MiltonStationsButton_Unclicked.png; path = "/Volumes/DATA/Development/iGoToronto/Assets/Go Station Buttons/MiltonStationsButton_Unclicked.png"; sourceTree = "<absolute>"; };
 		A6DDBC94127D38CE00D39AFE /* NewsTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = NewsTab.png; path = ../../Assets/NewsTab.png; sourceTree = SOURCE_ROOT; };
 		A6DEE2D912F25E5800C77E47 /* MainWindow-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "MainWindow-iPad.xib"; path = "Resources-iPad/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		A6DEE2EF12F2610A00C77E47 /* NewsView-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "NewsView-iPad.xib"; path = "Resources-iPad/NewsView-iPad.xib"; sourceTree = "<group>"; };
@@ -599,21 +614,6 @@
 		A6EAD5DC128ACD2300CBA963 /* CDRoute+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CDRoute+Extension.m"; sourceTree = "<group>"; };
 		A6ED6A8E12DCE91F00958359 /* HelpScreenTopRight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "HelpScreenTopRight@2x.png"; path = "../../Assets/HelpScreenTopRight@2x.png"; sourceTree = SOURCE_ROOT; };
 		A6ED6A8F12DCE91F00958359 /* HelpScreenTopRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = HelpScreenTopRight.png; path = ../../Assets/HelpScreenTopRight.png; sourceTree = SOURCE_ROOT; };
-		A6F126811274A9AB009C3192 /* Barrie_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Barrie_Disabled.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Barrie_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F126821274A9AB009C3192 /* Barrie_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Barrie_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Barrie_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F126831274A9AB009C3192 /* Georgetown_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Georgetown_Disabled.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Georgetown_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F126841274A9AB009C3192 /* Georgetown_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Georgetown_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Georgetown_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F126851274A9AB009C3192 /* Joint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Joint.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Joint.png"; sourceTree = "<absolute>"; };
-		A6F126861274A9AB009C3192 /* Lakeshore-East_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-East_Disabled.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Lakeshore-East_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F126871274A9AB009C3192 /* Lakeshore-East_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-East_Unclicked.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Lakeshore-East_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F126881274A9AB009C3192 /* Lakeshore-West_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-West_Disabled.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Lakeshore-West_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F126891274A9AB009C3192 /* Lakeshore-West_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Lakeshore-West_Unclicked.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Lakeshore-West_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F1268A1274A9AB009C3192 /* Milton_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Milton_Disabled.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Milton_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F1268B1274A9AB009C3192 /* Milton_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Milton_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Milton_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F1268C1274A9AB009C3192 /* Richmond-Hill_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Richmond-Hill_Disabled.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Richmond-Hill_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F1268D1274A9AB009C3192 /* Richmond-Hill_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Richmond-Hill_Unclicked.png"; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Richmond-Hill_Unclicked.png"; sourceTree = "<absolute>"; };
-		A6F1269F1274AE85009C3192 /* Stouffville_Disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Stouffville_Disabled.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Stouffville_Disabled.png"; sourceTree = "<absolute>"; };
-		A6F126A01274AE85009C3192 /* Stouffville_Unclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Stouffville_Unclicked.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/Map/Stouffville_Unclicked.png"; sourceTree = "<absolute>"; };
 		A6F15047131BDCB5003D9265 /* iGoTorontoLite-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iGoTorontoLite-Info.plist"; sourceTree = "<group>"; };
 		A6F15049131C7FB6003D9265 /* iconLite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconLite.png; path = ../../Assets/iconLite.png; sourceTree = "<group>"; };
 		A6F1504A131C7FB6003D9265 /* iconLite@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iconLite@2x.png"; path = "../../Assets/iconLite@2x.png"; sourceTree = "<group>"; };
@@ -691,12 +691,12 @@
 		A6F746EA12FD9D65002BFE65 /* weather_icon_cloudy5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = weather_icon_cloudy5.png; path = "Weather Icons/weather_icon_cloudy5.png"; sourceTree = "<group>"; };
 		A6F746EB12FD9D65002BFE65 /* weather_icon_cloudy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = weather_icon_cloudy1.png; path = "Weather Icons/weather_icon_cloudy1.png"; sourceTree = "<group>"; };
 		A6F87B881274FDAE00C68EB5 /* RefreshButton_Clicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RefreshButton_Clicked.png; path = ../../Assets/RefreshButton_Clicked.png; sourceTree = SOURCE_ROOT; };
-		A6F87B891274FDAE00C68EB5 /* RefreshButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RefreshButton.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/RefreshButton.png"; sourceTree = "<absolute>"; };
+		A6F87B891274FDAE00C68EB5 /* RefreshButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RefreshButton.png; path = /Volumes/DATA/Development/iGoToronto/Assets/RefreshButton.png; sourceTree = "<absolute>"; };
 		A6F87B8D127528F300C68EB5 /* Flight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flight.h; sourceTree = "<group>"; };
 		A6F87B8E127528F300C68EB5 /* Flight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Flight.m; sourceTree = "<group>"; };
 		A6F87BC012754ACD00C68EB5 /* PlaneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaneViewController.h; sourceTree = "<group>"; };
 		A6F87BC112754ACD00C68EB5 /* PlaneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaneViewController.m; sourceTree = "<group>"; };
-		A6FE84D9128D04270010BC63 /* StopListingDirection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StopListingDirection.png; path = "/Users/rrenna360/Documents/Development/iGo Toronto/Assets/StopListingDirection.png"; sourceTree = "<absolute>"; };
+		A6FE84D9128D04270010BC63 /* StopListingDirection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StopListingDirection.png; path = /Volumes/DATA/Development/iGoToronto/Assets/StopListingDirection.png; sourceTree = "<absolute>"; };
 		F0B9CEF213B75FFE00CA61DA /* libz.1.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.5.dylib; path = usr/lib/libz.1.2.5.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -1427,22 +1427,22 @@
 		A6CDB3761266A61300C607B0 /* Go Train Map */ = {
 			isa = PBXGroup;
 			children = (
+				85D78F9B1580F0AD0038140E /* Barrie_Disabled.png */,
+				85D78F9C1580F0AD0038140E /* Barrie_Unclicked.png */,
+				85D78F9D1580F0AE0038140E /* Georgetown_Disabled.png */,
+				85D78F9E1580F0AE0038140E /* Georgetown_Unclicked.png */,
+				85D78F9F1580F0AE0038140E /* Joint.png */,
+				85D78FA01580F0AF0038140E /* Lakeshore-East_Disabled.png */,
+				85D78FA11580F0AF0038140E /* Lakeshore-East_Unclicked.png */,
+				85D78FA21580F0B00038140E /* Lakeshore-West_Disabled.png */,
+				85D78FA31580F0B00038140E /* Lakeshore-West_Unclicked.png */,
+				85D78FA41580F0B10038140E /* Milton_Disabled.png */,
+				85D78FA51580F0B10038140E /* Milton_Unclicked.png */,
+				85D78FA61580F0B20038140E /* Richmond-Hill_Disabled.png */,
+				85D78FA71580F0B20038140E /* Richmond-Hill_Unclicked.png */,
+				85D78FA81580F0B20038140E /* Stouffville_Disabled.png */,
+				85D78FA91580F0B30038140E /* Stouffville_Unclicked.png */,
 				A6A88596125ACD1200A48733 /* Go Station Buttons */,
-				A6F1269F1274AE85009C3192 /* Stouffville_Disabled.png */,
-				A6F126A01274AE85009C3192 /* Stouffville_Unclicked.png */,
-				A6F126811274A9AB009C3192 /* Barrie_Disabled.png */,
-				A6F126821274A9AB009C3192 /* Barrie_Unclicked.png */,
-				A6F126831274A9AB009C3192 /* Georgetown_Disabled.png */,
-				A6F126841274A9AB009C3192 /* Georgetown_Unclicked.png */,
-				A6F126851274A9AB009C3192 /* Joint.png */,
-				A6F126861274A9AB009C3192 /* Lakeshore-East_Disabled.png */,
-				A6F126871274A9AB009C3192 /* Lakeshore-East_Unclicked.png */,
-				A6F126881274A9AB009C3192 /* Lakeshore-West_Disabled.png */,
-				A6F126891274A9AB009C3192 /* Lakeshore-West_Unclicked.png */,
-				A6F1268A1274A9AB009C3192 /* Milton_Disabled.png */,
-				A6F1268B1274A9AB009C3192 /* Milton_Unclicked.png */,
-				A6F1268C1274A9AB009C3192 /* Richmond-Hill_Disabled.png */,
-				A6F1268D1274A9AB009C3192 /* Richmond-Hill_Unclicked.png */,
 			);
 			name = "Go Train Map";
 			sourceTree = "<group>";
@@ -1657,21 +1657,6 @@
 				A6A9FB091267FBF6002C5C08 /* StationPopupView.xib in Resources */,
 				A69F8BF6126A6B0800EBB123 /* StationStopView.xib in Resources */,
 				A612D41E126A79FA0044756B /* StationStopListingView.xib in Resources */,
-				A6F1268E1274A9AB009C3192 /* Barrie_Disabled.png in Resources */,
-				A6F1268F1274A9AB009C3192 /* Barrie_Unclicked.png in Resources */,
-				A6F126901274A9AB009C3192 /* Georgetown_Disabled.png in Resources */,
-				A6F126911274A9AB009C3192 /* Georgetown_Unclicked.png in Resources */,
-				A6F126921274A9AB009C3192 /* Joint.png in Resources */,
-				A6F126931274A9AB009C3192 /* Lakeshore-East_Disabled.png in Resources */,
-				A6F126941274A9AB009C3192 /* Lakeshore-East_Unclicked.png in Resources */,
-				A6F126951274A9AB009C3192 /* Lakeshore-West_Disabled.png in Resources */,
-				A6F126961274A9AB009C3192 /* Lakeshore-West_Unclicked.png in Resources */,
-				A6F126971274A9AB009C3192 /* Milton_Disabled.png in Resources */,
-				A6F126981274A9AB009C3192 /* Milton_Unclicked.png in Resources */,
-				A6F126991274A9AB009C3192 /* Richmond-Hill_Disabled.png in Resources */,
-				A6F1269A1274A9AB009C3192 /* Richmond-Hill_Unclicked.png in Resources */,
-				A6F126A11274AE85009C3192 /* Stouffville_Disabled.png in Resources */,
-				A6F126A21274AE85009C3192 /* Stouffville_Unclicked.png in Resources */,
 				A6F87B8A1274FDAE00C68EB5 /* RefreshButton_Clicked.png in Resources */,
 				A6F87B8B1274FDAE00C68EB5 /* RefreshButton.png in Resources */,
 				A67CBF7C1277B03C009EF131 /* NewsView.xib in Resources */,
@@ -1803,6 +1788,21 @@
 				A6B1192E135A6985002A9359 /* YUSSheppardButton.png in Resources */,
 				A6B11932135A6A99002A9359 /* YUSBloorButton_Clicked.png in Resources */,
 				A6B11934135A6A99002A9359 /* YUSBloorButton.png in Resources */,
+				85D78FAA1580F0B40038140E /* Barrie_Disabled.png in Resources */,
+				85D78FAB1580F0B40038140E /* Barrie_Unclicked.png in Resources */,
+				85D78FAC1580F0B40038140E /* Georgetown_Disabled.png in Resources */,
+				85D78FAD1580F0B40038140E /* Georgetown_Unclicked.png in Resources */,
+				85D78FAE1580F0B40038140E /* Joint.png in Resources */,
+				85D78FAF1580F0B40038140E /* Lakeshore-East_Disabled.png in Resources */,
+				85D78FB01580F0B40038140E /* Lakeshore-East_Unclicked.png in Resources */,
+				85D78FB11580F0B40038140E /* Lakeshore-West_Disabled.png in Resources */,
+				85D78FB21580F0B40038140E /* Lakeshore-West_Unclicked.png in Resources */,
+				85D78FB31580F0B40038140E /* Milton_Disabled.png in Resources */,
+				85D78FB41580F0B40038140E /* Milton_Unclicked.png in Resources */,
+				85D78FB51580F0B40038140E /* Richmond-Hill_Disabled.png in Resources */,
+				85D78FB61580F0B40038140E /* Richmond-Hill_Unclicked.png in Resources */,
+				85D78FB71580F0B40038140E /* Stouffville_Disabled.png in Resources */,
+				85D78FB81580F0B40038140E /* Stouffville_Unclicked.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1990,8 +1990,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Ryan Renna";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ryan Renna";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
@@ -2005,8 +2005,8 @@
 					"-lxml2",
 				);
 				PREBINDING = NO;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE = "6F995BA8-2737-468E-9784-ED9FCA46D9FD";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6F995BA8-2737-468E-9784-ED9FCA46D9FD";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
