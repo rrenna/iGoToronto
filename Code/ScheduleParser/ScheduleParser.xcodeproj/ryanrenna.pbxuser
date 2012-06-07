@@ -1,0 +1,2697 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A6BACF3011EEA16D00D49A0A /* ScheduleParser */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* ScheduleParser */;
+		addToTargets = (
+		);
+		breakpoints = (
+			A6BAD03D11EEABA900D49A0A /* ScheduleParser.m:2193 */,
+			A6BAD08511EEAD3000D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD0E811EEBC5500D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD10B11EEC5DA00D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD11911EEC8B100D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD1EC11EFE01A00D49A0A /* ScheduleParser.m:35 */,
+			A6BAD22011F0012200D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD22611F0014B00D49A0A /* ScheduleParser.m:35 */,
+			A6BAD22E11F001AB00D49A0A /* ScheduleParser.m:35 */,
+			A6BAD23B11F003E500D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD24B11F0054400D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD24F11F005AD00D49A0A /* ScheduleParser.m:2140 */,
+			A6BAD28111F00DC000D49A0A /* ScheduleParser.m:35 */,
+			A6BAD2C111F0147300D49A0A /* ScheduleParser.m:35 */,
+			A6BAD30711F07DE000D49A0A /* ScheduleParser.m:35 */,
+			A6BAD40B11F533DF00D49A0A /* ScheduleParser.m:1990 */,
+			A6BAD42E11F535E600D49A0A /* ScheduleParser.m:1990 */,
+			A6BAD43411F5363900D49A0A /* ScheduleParser.m:1990 */,
+			A6BAD44F11F5433E00D49A0A /* ScheduleParser.m:1961 */,
+			A6BAD4A111F549C800D49A0A /* ScheduleParser.m:2009 */,
+			A6BAD4E011F5C84000D49A0A /* ScheduleParser.m:2126 */,
+			A63DC81F11FA905500F3DB32 /* ScheduleParser.m:2129 */,
+			A63DC82511FA90BF00F3DB32 /* ScheduleParser.m:2082 */,
+			A63DC84B11FA98F400F3DB32 /* ScheduleParser.m:2125 */,
+			A67858351269332400BFCC2C /* ScheduleParser.m:2038 */,
+			A67858FD1269478300BFCC2C /* ScheduleParser.m:2051 */,
+			A6720659126BBDD100310CCE /* ScheduleParser.m:1872 */,
+			A67206B7126BE8A900310CCE /* ScheduleParser.m:1493 */,
+			A67206CB126BEB7700310CCE /* ScheduleParser.m:1746 */,
+			A67206CF126BED7900310CCE /* ScheduleParser.m:1589 */,
+			A67206E1126BEF5F00310CCE /* ScheduleParser.m:1987 */,
+			A68BA3B9126D31830099C4DB /* ScheduleParser.m:1704 */,
+			A68BA46F126D3C7C0099C4DB /* ScheduleParser.m:1702 */,
+			A68BA475126D3C9B0099C4DB /* ScheduleParser.m:1702 */,
+			A6402508128C29AD0081A77C /* ScheduleParser.m:2274 */,
+			A6B186BC128C853F00D5CE3A /* ScheduleParser.m:1683 */,
+			A6B186BE128C853F00D5CE3A /* ScheduleParser.m:1682 */,
+			A6B186C4128C858100D5CE3A /* ScheduleParser.m:1682 */,
+			A6A103D81290E6880079477D /* ScheduleParser.m:1988 */,
+			A6C8A215129234000034DD09 /* ScheduleParser.m:2248 */,
+			A6C8A22E129238DA0034DD09 /* ScheduleParser.m:1721 */,
+			A6C8A236129239ED0034DD09 /* ScheduleParser.m:2233 */,
+			A6C8A23C12923A530034DD09 /* ScheduleParser.m:2235 */,
+			A6C8A24212923BD40034DD09 /* ScheduleParser.m:1723 */,
+			A6C8A24412923BD50034DD09 /* ScheduleParser.m:1734 */,
+			A6C8A24812923C1B0034DD09 /* ScheduleParser.m:1783 */,
+			A6C8A25D12923C550034DD09 /* ScheduleParser.m:1734 */,
+			A6C8A25F12923C570034DD09 /* ScheduleParser.m:1743 */,
+			A6C8A26A12923D020034DD09 /* ScheduleParser.m:1734 */,
+			A6F67ADB129330A900821D77 /* ScheduleParser.m:2040 */,
+			A6F67ADF129330E800821D77 /* ScheduleParser.m:2058 */,
+			A6F67AE11293311B00821D77 /* ScheduleParser.m:2067 */,
+			A6F67AEB129333DD00821D77 /* ScheduleParser.m:1793 */,
+			A6F67AF51293357D00821D77 /* ScheduleParser.m:2101 */,
+			A6F67AFD12933A7D00821D77 /* ScheduleParser.m:1795 */,
+			A6F67B211293649200821D77 /* ScheduleParser.m:1845 */,
+			A6F67B2B1293673900821D77 /* ScheduleParser.m:37 */,
+			A6F67B40129368FD00821D77 /* ScheduleParser.m:1869 */,
+			A6F67B5112936C9300821D77 /* ScheduleParser.m:2123 */,
+			A6F67B641293785C00821D77 /* ScheduleParser.m:2108 */,
+			A6F67B7012937A7C00821D77 /* ScheduleParser.m:293 */,
+			A6F67B7612937ADC00821D77 /* ScheduleParser.m:219 */,
+			A6F67BA71293843000821D77 /* ScheduleParser.m:2149 */,
+			A6B794D9129564A60068A956 /* ScheduleParser.m:1788 */,
+			A69D3A5512A1418F00B86D91 /* ScheduleParser.m:2030 */,
+			A6E7082E12A5FEE80060FC74 /* ScheduleParser.m:1809 */,
+			A6F2C73512B288BE00328E98 /* ScheduleParser.m:1819 */,
+			A6F2C73912B288E000328E98 /* ScheduleParser.m:1868 */,
+			A6C2982412C4E5B7003D1D82 /* ScheduleParser.m:1908 */,
+			A6C2982612C4E637003D1D82 /* ScheduleParser.m:514 */,
+			A6922EFF12C53AEB0091144D /* ScheduleParser.m:165 */,
+			A692313D12C5AFA70091144D /* ScheduleParser.m:2056 */,
+			A692314212C5AFF60091144D /* ScheduleParser.m:2065 */,
+			A692314C12C5B26D0091144D /* ScheduleParser.m:2132 */,
+			A6B5059B12C787430059A50E /* ScheduleParser.m:2225 */,
+			A6B505A312C789840059A50E /* ScheduleParser.m:2027 */,
+			A6B50B8112C98EA60059A50E /* ScheduleParser.m:1595 */,
+			A68D063112EB853700CBA28D /* ScheduleParser.m:2394 */,
+			A660CEA612F3E17200D28D5D /* ScheduleParser.m:2473 */,
+			A660CEC112F3E3B500D28D5D /* ScheduleParser.m:2489 */,
+			A660CECB12F462BF00D28D5D /* ScheduleParser.m:2500 */,
+			A660CECD12F462CD00D28D5D /* ScheduleParser.m:2506 */,
+			A660CECF12F462D100D28D5D /* ScheduleParser.m:2510 */,
+			A660CED112F462D500D28D5D /* ScheduleParser.m:2514 */,
+			A660CED312F462D900D28D5D /* ScheduleParser.m:2530 */,
+			A660CED512F462DF00D28D5D /* ScheduleParser.m:2518 */,
+			A660CED712F462E300D28D5D /* ScheduleParser.m:2522 */,
+			A660CED912F462E700D28D5D /* ScheduleParser.m:2526 */,
+		);
+		codeSenseManager = A6BACF3E11EEA18B00D49A0A /* Code sense */;
+		executables = (
+			A6BACF3011EEA16D00D49A0A /* ScheduleParser */,
+		);
+		expressions = (
+			row,
+			mRoute,
+			modelURL,
+			routePageType,
+			rowLabel,
+			key,
+			cellData,
+			response,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					53.17919921875,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					582,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320246826;
+			PBXWorkspaceStateSaveDate = 320246826;
+		};
+		perUserProjectItems = {
+			A61D254C12E90DCD00B334EC /* PBXTextBookmark */ = A61D254C12E90DCD00B334EC /* PBXTextBookmark */;
+			A62AB2DA12A4FBE40031DECA /* PBXTextBookmark */ = A62AB2DA12A4FBE40031DECA /* PBXTextBookmark */;
+			A660CE9312F3E10E00D28D5D /* XDModelBookmark */ = A660CE9312F3E10E00D28D5D /* XDModelBookmark */;
+			A660CE9412F3E10E00D28D5D /* PBXTextBookmark */ = A660CE9412F3E10E00D28D5D /* PBXTextBookmark */;
+			A660CE9512F3E10E00D28D5D /* PBXTextBookmark */ = A660CE9512F3E10E00D28D5D /* PBXTextBookmark */;
+			A660CE9612F3E10E00D28D5D /* PBXTextBookmark */ = A660CE9612F3E10E00D28D5D /* PBXTextBookmark */;
+			A660CE9712F3E10E00D28D5D /* PBXTextBookmark */ = A660CE9712F3E10E00D28D5D /* PBXTextBookmark */;
+			A660CEAE12F3E2EB00D28D5D /* PBXTextBookmark */ = A660CEAE12F3E2EB00D28D5D /* PBXTextBookmark */;
+			A660CEAF12F3E2EB00D28D5D /* PBXTextBookmark */ = A660CEAF12F3E2EB00D28D5D /* PBXTextBookmark */;
+			A66D6C2B128C458400A39764 /* XDModelBookmark */ = A66D6C2B128C458400A39764 /* XDModelBookmark */;
+			A66D6C2E128C458400A39764 /* PBXTextBookmark */ = A66D6C2E128C458400A39764 /* PBXTextBookmark */;
+			A66D6C3E128C461800A39764 /* PBXTextBookmark */ = A66D6C3E128C461800A39764 /* PBXTextBookmark */;
+			A66D6C3F128C461800A39764 /* PBXTextBookmark */ = A66D6C3F128C461800A39764 /* PBXTextBookmark */;
+			A66D6C40128C461800A39764 /* PBXTextBookmark */ = A66D6C40128C461800A39764 /* PBXTextBookmark */;
+			A678580612692AD000BFCC2C /* PBXTextBookmark */ = A678580612692AD000BFCC2C /* PBXTextBookmark */;
+			A678580712692AD000BFCC2C /* PBXTextBookmark */ = A678580712692AD000BFCC2C /* PBXTextBookmark */;
+			A678580812692AD000BFCC2C /* PBXTextBookmark */ = A678580812692AD000BFCC2C /* PBXTextBookmark */;
+			A678580912692AD000BFCC2C /* PBXTextBookmark */ = A678580912692AD000BFCC2C /* PBXTextBookmark */;
+			A678583A1269335000BFCC2C /* PBXTextBookmark */ = A678583A1269335000BFCC2C /* PBXTextBookmark */;
+			A678589B12693D0800BFCC2C /* PBXTextBookmark */ = A678589B12693D0800BFCC2C /* PBXTextBookmark */;
+			A68D05EF12EB745B00CBA28D /* PBXTextBookmark */ = A68D05EF12EB745B00CBA28D /* PBXTextBookmark */;
+			A68D05F012EB745B00CBA28D /* PBXTextBookmark */ = A68D05F012EB745B00CBA28D /* PBXTextBookmark */;
+			A68D060312EB7B9000CBA28D /* PBXTextBookmark */ = A68D060312EB7B9000CBA28D /* PBXTextBookmark */;
+			A68D062012EB834F00CBA28D /* PBXTextBookmark */ = A68D062012EB834F00CBA28D /* PBXTextBookmark */;
+			A6922CF112C521AA0091144D /* PBXTextBookmark */ = A6922CF112C521AA0091144D /* PBXTextBookmark */;
+			A69D3A03129F74D800B86D91 /* PBXTextBookmark */ = A69D3A03129F74D800B86D91 /* PBXTextBookmark */;
+			A6A104391290E8B30079477D /* PBXTextBookmark */ = A6A104391290E8B30079477D /* PBXTextBookmark */;
+			A6ABA018131695BC006F0546 /* PBXTextBookmark */ = A6ABA018131695BC006F0546 /* PBXTextBookmark */;
+			A6ABA019131695D0006F0546 /* PBXTextBookmark */ = A6ABA019131695D0006F0546 /* PBXTextBookmark */;
+			A6ABA02813169ACC006F0546 /* PBXTextBookmark */ = A6ABA02813169ACC006F0546 /* PBXTextBookmark */;
+			A6BACFE811EEA20C00D49A0A /* PBXTextBookmark */ = A6BACFE811EEA20C00D49A0A /* PBXTextBookmark */;
+			A6C295FA12C4513D003D1D82 /* PBXTextBookmark */ = A6C295FA12C4513D003D1D82 /* PBXTextBookmark */;
+			A6C295FB12C4513D003D1D82 /* PBXTextBookmark */ = A6C295FB12C4513D003D1D82 /* PBXTextBookmark */;
+			A6C295FC12C4513D003D1D82 /* PBXTextBookmark */ = A6C295FC12C4513D003D1D82 /* PBXTextBookmark */;
+			A6DE3BBE12E811A600703305 /* PBXTextBookmark */ = A6DE3BBE12E811A600703305 /* PBXTextBookmark */;
+			A6DE3BBF12E811A600703305 /* PBXTextBookmark */ = A6DE3BBF12E811A600703305 /* PBXTextBookmark */;
+			A6E7083112A5FF100060FC74 /* PBXTextBookmark */ = A6E7083112A5FF100060FC74 /* PBXTextBookmark */;
+			A6E7084812A5FFFD0060FC74 /* PBXTextBookmark */ = A6E7084812A5FFFD0060FC74 /* PBXTextBookmark */;
+			A6E7084912A5FFFD0060FC74 /* PBXTextBookmark */ = A6E7084912A5FFFD0060FC74 /* PBXTextBookmark */;
+			A6E7085212A6035D0060FC74 /* PBXTextBookmark */ = A6E7085212A6035D0060FC74 /* PBXTextBookmark */;
+			A6F93AC7129DEB940015363F /* PBXTextBookmark */ = A6F93AC7129DEB940015363F /* PBXTextBookmark */;
+		};
+		sourceControlManager = A6BACF3D11EEA18B00D49A0A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	288AFF310F563D130085E73F /* ScheduleParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 34611}}";
+			sepNavSelRange = "{4608, 0}";
+			sepNavVisRange = "{6085, 1947}";
+			sepNavWindowFrame = "{{555, 0}, {692, 778}}";
+		};
+	};
+	288AFF330F563D1C0085E73F /* ScheduleParser.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {893, 825}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{876, 742}";
+		};
+	};
+	288AFF340F563D390085E73F /* ScheduleParser_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* ScheduleParser */ = {
+		activeExec = 0;
+		executables = (
+			A6BACF3011EEA16D00D49A0A /* ScheduleParser */,
+		);
+	};
+	A615FC7C128C5EC000565FD4 /* ScheduleParser.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						NO,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						32.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {403, 218}}",
+							"{{408, 0}, {212, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {620, 220}}",
+							"{{0, 225}, {620, 455}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {165, 218}}",
+							"{{170, 0}, {231, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{115, 356}, {605, 440}}";
+			};
+			sepNavWindowFrame = "{{19, 0}, {1056, 778}}";
+		};
+	};
+	A61D254C12E90DCD00B334EC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6B506C912C7A7660059A50E /* CDLine.h */;
+		name = "CDLine.h: 40";
+		rLen = 50;
+		rLoc = 970;
+		rType = 0;
+		vrLen = 1361;
+		vrLoc = 140;
+	};
+	A61D272712E9379C00B334EC /* CDLocation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	A61D272812E9379C00B334EC /* CDLocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 296}";
+		};
+	};
+	A6203F0C126A2ED20080C4CA /* HelperModelClasses.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {446, 1168}}";
+			sepNavSelRange = "{457, 0}";
+			sepNavVisRange = "{0, 1078}";
+		};
+	};
+	A6203F0D126A2ED20080C4CA /* HelperModelClasses.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {446, 1542}}";
+			sepNavSelRange = "{613, 0}";
+			sepNavVisRange = "{0, 837}";
+		};
+	};
+	A62AB2DA12A4FBE40031DECA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6F93ABC129DEB140015363F /* CDFactoid.h */;
+		name = "CDFactoid.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	A63DC81F11FA905500F3DB32 /* ScheduleParser.m:2129 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2129;
+		location = ScheduleParser;
+		modificationTime = 320247908.525434;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A63DC82511FA90BF00F3DB32 /* ScheduleParser.m:2082 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2082;
+		location = ScheduleParser;
+		modificationTime = 320247908.532186;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A63DC84B11FA98F400F3DB32 /* ScheduleParser.m:2125 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2125;
+		location = ScheduleParser;
+		modificationTime = 320247908.533533;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6402508128C29AD0081A77C /* ScheduleParser.m:2274 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "managedObjectModel()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2274;
+		location = ScheduleParser;
+		modificationTime = 320247908.565972;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CE8312F3D70700D28D5D /* trafficcameras.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 22659}}";
+			sepNavSelRange = "{12244, 0}";
+			sepNavVisRange = "{11642, 1588}";
+			sepNavWindowFrame = "{{1, 0}, {852, 778}}";
+		};
+	};
+	A660CE8812F3DCE100D28D5D /* CDCamera.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {561, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+	A660CE8912F3DCE100D28D5D /* CDCamera.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {561, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 261}";
+		};
+	};
+	A660CE8C12F3DD0E00D28D5D /* CDRoadway.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {561, 665}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	A660CE8D12F3DD0E00D28D5D /* CDRoadway.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {561, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 274}";
+		};
+	};
+	A660CE9312F3E10E00D28D5D /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = A615FC7C128C5EC000565FD4 /* ScheduleParser.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	A660CE9412F3E10E00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A660CE8C12F3DD0E00D28D5D /* CDRoadway.h */;
+		name = "CDRoadway.h: 22";
+		rLen = 0;
+		rLoc = 388;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	A660CE9512F3E10E00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A660CE8D12F3DD0E00D28D5D /* CDRoadway.m */;
+		name = "CDRoadway.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	A660CE9612F3E10E00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A660CE8912F3DCE100D28D5D /* CDCamera.m */;
+		name = "CDCamera.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	A660CE9712F3E10E00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A660CE8812F3DCE100D28D5D /* CDCamera.h */;
+		name = "CDCamera.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	A660CEA612F3E17200D28D5D /* ScheduleParser.m:2473 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2473;
+		location = ScheduleParser;
+		modificationTime = 320247908.62148;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CEAE12F3E2EB00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D061712EB7E5E00CBA28D /* TBXML.h */;
+		name = "TBXML.h: 66";
+		rLen = 16;
+		rLoc = 2614;
+		rType = 0;
+		vrLen = 874;
+		vrLoc = 2320;
+	};
+	A660CEAF12F3E2EB00D28D5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D061812EB7E5E00CBA28D /* TBXML.m */;
+		name = "TBXML.m: 182";
+		rLen = 94;
+		rLoc = 5969;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 5370;
+	};
+	A660CEC112F3E3B500D28D5D /* ScheduleParser.m:2489 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2489;
+		location = ScheduleParser;
+		modificationTime = 320247908.622336;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CECB12F462BF00D28D5D /* ScheduleParser.m:2500 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2500;
+		location = ScheduleParser;
+		modificationTime = 320247908.623699;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CECD12F462CD00D28D5D /* ScheduleParser.m:2506 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2506;
+		location = ScheduleParser;
+		modificationTime = 320247908.62504;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CECF12F462D100D28D5D /* ScheduleParser.m:2510 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2510;
+		location = ScheduleParser;
+		modificationTime = 320247908.626505;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CED112F462D500D28D5D /* ScheduleParser.m:2514 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2514;
+		location = ScheduleParser;
+		modificationTime = 320247908.627448;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CED312F462D900D28D5D /* ScheduleParser.m:2530 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2530;
+		location = ScheduleParser;
+		modificationTime = 320247908.628405;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CED512F462DF00D28D5D /* ScheduleParser.m:2518 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2518;
+		location = ScheduleParser;
+		modificationTime = 320247908.629303;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CED712F462E300D28D5D /* ScheduleParser.m:2522 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2522;
+		location = ScheduleParser;
+		modificationTime = 320247908.630183;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A660CED912F462E700D28D5D /* ScheduleParser.m:2526 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTrafficCameras()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2526;
+		location = ScheduleParser;
+		modificationTime = 320247908.63106;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A66D6C2B128C458400A39764 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fallbackIsa = PBXBookmark;
+	};
+	A66D6C2E128C458400A39764 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CDRoute.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1074;
+		vrLoc = 0;
+	};
+	A66D6C3E128C461800A39764 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CDRoute.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 0;
+	};
+	A66D6C3F128C461800A39764 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CDLine.m: 16";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	A66D6C40128C461800A39764 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "CDLine.h: 16";
+		rLen = 0;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	A6720659126BBDD100310CCE /* ScheduleParser.m:1872 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1872;
+		location = ScheduleParser;
+		modificationTime = 320247908.535912;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A67206B7126BE8A900310CCE /* ScheduleParser.m:1493 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "populateLinesAndStations()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1493;
+		location = ScheduleParser;
+		modificationTime = 320247908.536669;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A67206CB126BEB7700310CCE /* ScheduleParser.m:1746 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1746;
+		location = ScheduleParser;
+		modificationTime = 320247908.559662;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A67206CF126BED7900310CCE /* ScheduleParser.m:1589 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1589;
+		location = ScheduleParser;
+		modificationTime = 320247908.561919;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A67206E1126BEF5F00310CCE /* ScheduleParser.m:1987 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1987;
+		location = ScheduleParser;
+		modificationTime = 320247908.56275;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A67857F912692A5500BFCC2C /* HTMLparser.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = HTMLparser.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/libxml2/libxml/HTMLparser.h;
+		sourceTree = "<absolute>";
+	};
+	A678580612692AD000BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6BAD00411EEA9F000D49A0A /* HTMLNode.h */;
+		name = "HTMLNode.h: 10";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	A678580712692AD000BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6BAD00611EEA9F000D49A0A /* HTMLParser.h */;
+		name = "HTMLParser.h: 18";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	A678580812692AD000BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A67857F912692A5500BFCC2C /* HTMLparser.h */;
+		name = "HTMLparser.h: 15";
+		rLen = 0;
+		rLoc = 480;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 0;
+	};
+	A678580912692AD000BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6BAD00711EEA9F000D49A0A /* HTMLParser.m */;
+		name = "HTMLParser.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 441;
+		vrLoc = 0;
+	};
+	A67858351269332400BFCC2C /* ScheduleParser.m:2038 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2038;
+		location = ScheduleParser;
+		modificationTime = 320247908.534387;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A678583A1269335000BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6BAD00511EEA9F000D49A0A /* HTMLNode.m */;
+		name = "HTMLNode.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 981;
+		vrLoc = 0;
+	};
+	A678589B12693D0800BFCC2C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6BAD00111EEA9E100D49A0A /* NetworkRequest.m */;
+		name = "NetworkRequest.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 0;
+	};
+	A67858FD1269478300BFCC2C /* ScheduleParser.m:2051 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2051;
+		location = ScheduleParser;
+		modificationTime = 320247908.53517;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A68BA3B9126D31830099C4DB /* ScheduleParser.m:1704 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1704;
+		location = ScheduleParser;
+		modificationTime = 320247908.563571;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A68BA46F126D3C7C0099C4DB /* ScheduleParser.m:1702 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1702;
+		location = ScheduleParser;
+		modificationTime = 320247908.564432;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A68BA475126D3C9B0099C4DB /* ScheduleParser.m:1702 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1702;
+		location = ScheduleParser;
+		modificationTime = 320247908.56521;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A68D05E812EB6BF300CBA28D /* CDSubwayStation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 315}";
+		};
+	};
+	A68D05E912EB6BF300CBA28D /* CDSubwayStation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	A68D05EF12EB745B00CBA28D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D05E812EB6BF300CBA28D /* CDSubwayStation.h */;
+		name = "CDSubwayStation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	A68D05F012EB745B00CBA28D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D05E912EB6BF300CBA28D /* CDSubwayStation.m */;
+		name = "CDSubwayStation.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	A68D060012EB794D00CBA28D /* subwaystations.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2875, 13780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3905}";
+		};
+	};
+	A68D060312EB7B9000CBA28D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D060012EB794D00CBA28D /* subwaystations.txt */;
+		name = "subwaystations.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3905;
+		vrLoc = 0;
+	};
+	A68D061512EB7E3C00CBA28D /* NSXMLParser.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSXMLParser.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSXMLParser.h;
+		sourceTree = "<absolute>";
+	};
+	A68D061712EB7E5E00CBA28D /* TBXML.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1788}}";
+			sepNavSelRange = "{2614, 16}";
+			sepNavVisRange = "{2320, 874}";
+		};
+	};
+	A68D061812EB7E5E00CBA28D /* TBXML.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 7530}}";
+			sepNavSelRange = "{5969, 94}";
+			sepNavVisRange = "{5370, 1288}";
+		};
+	};
+	A68D062012EB834F00CBA28D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A68D061512EB7E3C00CBA28D /* NSXMLParser.h */;
+		name = "NSXMLParser.h: 12";
+		rLen = 36;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 2324;
+		vrLoc = 6389;
+	};
+	A68D063112EB853700CBA28D /* ScheduleParser.m:2394 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseSubwayStations()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2394;
+		location = ScheduleParser;
+		modificationTime = 320247908.620565;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6922CE712C520D40091144D /* CDDayType.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 649}";
+		};
+	};
+	A6922CF112C521AA0091144D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6922CE712C520D40091144D /* CDDayType.h */;
+		name = "CDDayType.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 0;
+	};
+	A6922EFF12C53AEB0091144D /* ScheduleParser.m:165 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "initializeLakeshoreWestData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 165;
+		modificationTime = 320247908.611627;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	A692313D12C5AFA70091144D /* ScheduleParser.m:2056 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2056;
+		location = ScheduleParser;
+		modificationTime = 320247908.613704;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A692314212C5AFF60091144D /* ScheduleParser.m:2065 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2065;
+		location = ScheduleParser;
+		modificationTime = 320247908.614799;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A692314C12C5B26D0091144D /* ScheduleParser.m:2132 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2132;
+		location = ScheduleParser;
+		modificationTime = 320247908.615746;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A69D3A03129F74D800B86D91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 288AFF340F563D390085E73F /* ScheduleParser_Prefix.pch */;
+		name = "ScheduleParser_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	A69D3A5512A1418F00B86D91 /* ScheduleParser.m:2030 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2030;
+		modificationTime = 320247908.595306;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6A103D81290E6880079477D /* ScheduleParser.m:1988 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1988;
+		location = ScheduleParser;
+		modificationTime = 320247908.569037;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6A104311290E83D0079477D /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	A6A104391290E8B30079477D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6A104311290E83D0079477D /* NSDate.h */;
+		name = "NSDate.h: 27";
+		rLen = 93;
+		rLoc = 607;
+		rType = 0;
+		vrLen = 1453;
+		vrLoc = 125;
+	};
+	A6ABA018131695BC006F0546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		name = "ScheduleParser.m: 2408";
+		rLen = 14;
+		rLoc = 106771;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 102550;
+	};
+	A6ABA019131695D0006F0546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A660CE8312F3D70700D28D5D /* trafficcameras.txt */;
+		name = "trafficcameras.txt: 417";
+		rLen = 0;
+		rLoc = 12244;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 11642;
+	};
+	A6ABA02813169ACC006F0546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		name = "ScheduleParser.m: 92";
+		rLen = 0;
+		rLoc = 4608;
+		rType = 0;
+		vrLen = 3930;
+		vrLoc = 4260;
+	};
+	A6B186BC128C853F00D5CE3A /* ScheduleParser.m:1683 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1683;
+		modificationTime = 320247908.566752;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	A6B186BE128C853F00D5CE3A /* ScheduleParser.m:1682 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1682;
+		location = ScheduleParser;
+		modificationTime = 320247908.567543;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6B186C4128C858100D5CE3A /* ScheduleParser.m:1682 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1682;
+		location = ScheduleParser;
+		modificationTime = 320247908.568286;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6B5059B12C787430059A50E /* ScheduleParser.m:2225 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2225;
+		location = ScheduleParser;
+		modificationTime = 320247908.617127;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6B505A312C789840059A50E /* ScheduleParser.m:2027 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2027;
+		modificationTime = 320247908.618054;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6B506C912C7A7660059A50E /* CDLine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 783}}";
+			sepNavSelRange = "{970, 50}";
+			sepNavVisRange = "{140, 1361}";
+		};
+	};
+	A6B506CA12C7A7660059A50E /* CDLine.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 642}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 471}";
+		};
+	};
+	A6B50B8112C98EA60059A50E /* ScheduleParser.m:1595 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "populateLinesAndStations()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1595;
+		location = ScheduleParser;
+		modificationTime = 320247908.618968;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6B794D9129564A60068A956 /* ScheduleParser.m:1788 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1788;
+		location = ScheduleParser;
+		modificationTime = 320247908.593522;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BACF3011EEA16D00D49A0A /* ScheduleParser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScheduleParser;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	A6BACF3D11EEA18B00D49A0A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A6BACF3E11EEA18B00D49A0A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A6BACFE811EEA20C00D49A0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 288AFF330F563D1C0085E73F /* ScheduleParser.1 */;
+		name = "ScheduleParser.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2403;
+		vrLoc = 266;
+	};
+	A6BAD00111EEA9E100D49A0A /* NetworkRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 980}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 853}";
+			sepNavWindowFrame = "{{19, 0}, {692, 778}}";
+		};
+	};
+	A6BAD00411EEA9F000D49A0A /* HTMLNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 1512}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 517}";
+		};
+	};
+	A6BAD00511EEA9F000D49A0A /* HTMLNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 6426}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 981}";
+		};
+	};
+	A6BAD00611EEA9F000D49A0A /* HTMLParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 476}}";
+			sepNavSelRange = "{294, 0}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	A6BAD00711EEA9F000D49A0A /* HTMLParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 1638}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 441}";
+		};
+	};
+	A6BAD03D11EEABA900D49A0A /* ScheduleParser.m:2193 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "managedObjectContext()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2193;
+		location = ScheduleParser;
+		modificationTime = 320247908.505912;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD08511EEAD3000D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.50713;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD0E811EEBC5500D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.507898;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD10B11EEC5DA00D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.50869;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD11911EEC8B100D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.509396;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD1EC11EFE01A00D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.51009;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD22011F0012200D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.510772;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD22611F0014B00D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.511499;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD22E11F001AB00D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.512179;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD23B11F003E500D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.512916;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD24B11F0054400D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.513694;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD24F11F005AD00D49A0A /* ScheduleParser.m:2140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2140;
+		location = ScheduleParser;
+		modificationTime = 320247908.514674;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD28111F00DC000D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.515486;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD2C111F0147300D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.516249;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD30711F07DE000D49A0A /* ScheduleParser.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = ScheduleParser;
+		modificationTime = 320247908.517093;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD3CD11F5318900D49A0A /* CDStation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{0, 725}";
+		};
+	};
+	A6BAD3CE11F5318900D49A0A /* CDStation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 683}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{0, 295}";
+		};
+	};
+	A6BAD3CF11F5318900D49A0A /* CDStop.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 660}}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{0, 502}";
+		};
+	};
+	A6BAD3D011F5318900D49A0A /* CDStop.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 320}";
+		};
+	};
+	A6BAD40B11F533DF00D49A0A /* ScheduleParser.m:1990 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1990;
+		location = ScheduleParser;
+		modificationTime = 320247908.517856;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD42E11F535E600D49A0A /* ScheduleParser.m:1990 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1990;
+		location = ScheduleParser;
+		modificationTime = 320247908.518598;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD43411F5363900D49A0A /* ScheduleParser.m:1990 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1990;
+		location = ScheduleParser;
+		modificationTime = 320247908.519379;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD44F11F5433E00D49A0A /* ScheduleParser.m:1961 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1961;
+		location = ScheduleParser;
+		modificationTime = 320247908.520307;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD4A111F549C800D49A0A /* ScheduleParser.m:2009 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2009;
+		location = ScheduleParser;
+		modificationTime = 320247908.521116;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6BAD4E011F5C84000D49A0A /* ScheduleParser.m:2126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2126;
+		location = ScheduleParser;
+		modificationTime = 320247908.521874;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C295F112C450A9003D1D82 /* CDRoute.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 641}";
+		};
+	};
+	A6C295F312C450A9003D1D82 /* CDDirection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 771}";
+		};
+	};
+	A6C295F412C450A9003D1D82 /* CDDirection.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 295}";
+		};
+	};
+	A6C295FA12C4513D003D1D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C295F112C450A9003D1D82 /* CDRoute.h */;
+		name = "CDRoute.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	A6C295FB12C4513D003D1D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C295F412C450A9003D1D82 /* CDDirection.m */;
+		name = "CDDirection.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	A6C295FC12C4513D003D1D82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6C295F312C450A9003D1D82 /* CDDirection.h */;
+		name = "CDDirection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 0;
+	};
+	A6C2982412C4E5B7003D1D82 /* ScheduleParser.m:1908 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1908;
+		location = ScheduleParser;
+		modificationTime = 320247908.5993;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C2982612C4E637003D1D82 /* ScheduleParser.m:514 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "initializeGeorgetownData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 514;
+		modificationTime = 320247908.600264;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	A6C8A215129234000034DD09 /* ScheduleParser.m:2248 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2248;
+		location = ScheduleParser;
+		modificationTime = 320247908.569801;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A22E129238DA0034DD09 /* ScheduleParser.m:1721 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1721;
+		location = ScheduleParser;
+		modificationTime = 320247908.570598;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A236129239ED0034DD09 /* ScheduleParser.m:2233 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2233;
+		location = ScheduleParser;
+		modificationTime = 320247908.572322;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A23C12923A530034DD09 /* ScheduleParser.m:2235 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2235;
+		location = ScheduleParser;
+		modificationTime = 320247908.573203;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A24212923BD40034DD09 /* ScheduleParser.m:1723 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1723;
+		modificationTime = 320247908.574057;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	A6C8A24412923BD50034DD09 /* ScheduleParser.m:1734 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1734;
+		location = ScheduleParser;
+		modificationTime = 320247908.575831;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A24812923C1B0034DD09 /* ScheduleParser.m:1783 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1783;
+		location = ScheduleParser;
+		modificationTime = 320247908.57668;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A25D12923C550034DD09 /* ScheduleParser.m:1734 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1734;
+		location = ScheduleParser;
+		modificationTime = 320247908.577468;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A25F12923C570034DD09 /* ScheduleParser.m:1743 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1743;
+		location = ScheduleParser;
+		modificationTime = 320247908.578264;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6C8A26A12923D020034DD09 /* ScheduleParser.m:1734 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "storeRoute()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1734;
+		location = ScheduleParser;
+		modificationTime = 320247908.579066;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6DE3BBE12E811A600703305 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6203F0C126A2ED20080C4CA /* HelperModelClasses.h */;
+		name = "HelperModelClasses.h: 22";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 0;
+	};
+	A6DE3BBF12E811A600703305 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6203F0D126A2ED20080C4CA /* HelperModelClasses.m */;
+		name = "HelperModelClasses.m: 35";
+		rLen = 0;
+		rLoc = 613;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 0;
+	};
+	A6E7081A12A5FBC10060FC74 /* CDStop.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 665}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	A6E7081B12A5FBC10060FC74 /* CDStop.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 340}";
+		};
+	};
+	A6E7082012A5FC0C0060FC74 /* CDEntity.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 433}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 519}";
+		};
+	};
+	A6E7082112A5FC0C0060FC74 /* CDEntity.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 240}";
+		};
+	};
+	A6E7082E12A5FEE80060FC74 /* ScheduleParser.m:1809 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1809;
+		location = ScheduleParser;
+		modificationTime = 320247908.596349;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6E7083112A5FF100060FC74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6E7082012A5FC0C0060FC74 /* CDEntity.h */;
+		name = "CDEntity.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 519;
+		vrLoc = 0;
+	};
+	A6E7084812A5FFFD0060FC74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6E7081A12A5FBC10060FC74 /* CDStop.h */;
+		name = "CDStop.h: 10";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	A6E7084912A5FFFD0060FC74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6E7081B12A5FBC10060FC74 /* CDStop.m */;
+		name = "CDStop.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	A6E7085212A6035D0060FC74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6E7082112A5FC0C0060FC74 /* CDEntity.m */;
+		name = "CDEntity.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	A6F2C73512B288BE00328E98 /* ScheduleParser.m:1819 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1819;
+		location = ScheduleParser;
+		modificationTime = 320247908.597477;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F2C73912B288E000328E98 /* ScheduleParser.m:1868 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1868;
+		location = ScheduleParser;
+		modificationTime = 320247908.598352;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67ADB129330A900821D77 /* ScheduleParser.m:2040 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2040;
+		location = ScheduleParser;
+		modificationTime = 320247908.57986;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67ADF129330E800821D77 /* ScheduleParser.m:2058 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2058;
+		modificationTime = 320247908.580677;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67AE11293311B00821D77 /* ScheduleParser.m:2067 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2067;
+		location = ScheduleParser;
+		modificationTime = 320247908.581512;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67AEB129333DD00821D77 /* ScheduleParser.m:1793 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1793;
+		location = ScheduleParser;
+		modificationTime = 320247908.582343;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67AF51293357D00821D77 /* ScheduleParser.m:2101 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2101;
+		location = ScheduleParser;
+		modificationTime = 320247908.5833;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67AFD12933A7D00821D77 /* ScheduleParser.m:1795 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1795;
+		location = ScheduleParser;
+		modificationTime = 320247908.584249;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B211293649200821D77 /* ScheduleParser.m:1845 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1845;
+		location = ScheduleParser;
+		modificationTime = 320247908.585115;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B2B1293673900821D77 /* ScheduleParser.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "initializeLakeshoreWestData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = ScheduleParser;
+		modificationTime = 320247908.585931;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B40129368FD00821D77 /* ScheduleParser.m:1869 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parseTime()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1869;
+		location = ScheduleParser;
+		modificationTime = 320247908.586733;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B5112936C9300821D77 /* ScheduleParser.m:2123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2123;
+		location = ScheduleParser;
+		modificationTime = 320247908.587549;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B641293785C00821D77 /* ScheduleParser.m:2108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2108;
+		location = ScheduleParser;
+		modificationTime = 320247908.588368;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B7012937A7C00821D77 /* ScheduleParser.m:293 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "initializeLakeshoreWestData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 293;
+		location = ScheduleParser;
+		modificationTime = 320247908.589213;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67B7612937ADC00821D77 /* ScheduleParser.m:219 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "initializeLakeshoreWestData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 219;
+		location = ScheduleParser;
+		modificationTime = 320247908.591818;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F67BA71293843000821D77 /* ScheduleParser.m:2149 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 288AFF310F563D130085E73F /* ScheduleParser.m */;
+		functionName = "parsePage()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 2149;
+		location = ScheduleParser;
+		modificationTime = 320247908.592678;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A6F93ABC129DEB140015363F /* CDFactoid.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	A6F93ABD129DEB140015363F /* CDFactoid.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 660}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	A6F93AC7129DEB940015363F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A6F93ABD129DEB140015363F /* CDFactoid.m */;
+		name = "CDFactoid.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block title %}iGo Toronto › About{% endblock %}
+{% block head %}
+<script type="text/javascript">
+    $(document).ready( function() {
+        jQuery.embedquicktime({
+            jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js',
+            plugin: '/site_media/javascripts/jquery.embedquicktime.js'
+        });
+    });
+    $(document).ready( function() {
+        $("a.link").fancybox({
+            'zoomOpacity'           : true,
+            'zoomSpeedIn'           : 300,
+            'zoomSpeedOut'          : 300,
+        });
+    });
+</script>
+{% endblock %}
+
+{% block navigation_media %}class="current"{% endblock %}
+
+{% block leftContent %}
+<div id="iphone">
+    <div class="img">
+        <div class="hvlog {width: '230', height: '346', controller: 'false', loop: 'true', pluginspage: 'http://www.apple.com/quicktime/download/'}">
+          <a href="/site_media/TrafficCameras.mov" rel="enclosure">click to play</a>
+          <img src="/site_media/media/screenshot-5.png" alt="" />-->
+        </div>
+    </div>
+</div>
+{% endblock %}
+{% block content %}
+<div class="row">
+    <div>
+      <img src="/site_media/images/icons/testtube.png" style="width:40px;height:40px;"/>
+      <span style="font-size:18px;"><b>1.1 - Sneak Preview:</b></span>
+    </div>
+    
+    <div>
+      
+      <br/>
+      Here's an sneak preview of iGo Toronto 1.1. The biggest new feature is the new Traffic Camera tab.
+      <br/>
+      <br/>
+      Features:
+      
+     {% include 'whatsNext.html' %}
+
+    </div>
+</div>
+<div class="row">
+    <div class="column three">
+        <p>
+            <a href="/site_media/media/screenshot-4.png" class="link wide" rel="group" title="">
+            <img src="/site_media/media/screenshot-4-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column three">
+        <p>
+            <a href="/site_media/media/screenshot-5.png" class="link wide" rel="group" title="">
+            <img src="/site_media/media/screenshot-5-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+</div>
+{% endblock %}

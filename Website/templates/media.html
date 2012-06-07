@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}iGo Toronto › About{% endblock %}
+{% block head %}
+<script type="text/javascript">
+    $(document).ready( function() {
+        jQuery.embedquicktime({
+            jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js',
+            plugin: '/site_media/javascripts/jquery.embedquicktime.js'
+        });
+    });
+    $(document).ready( function() {
+        $("a.link").fancybox({
+            'zoomOpacity'           : true,
+            'zoomSpeedIn'           : 300,
+            'zoomSpeedOut'          : 300,
+        });
+    });
+</script>
+{% endblock %}
+
+{% block navigation_media %}class="current"{% endblock %}
+
+{% block leftContent %}
+<div id="iphone">
+    <div class="img">
+        <div class="hvlog {width: '230', height: '346', controller: 'false', loop: 'true', pluginspage: 'http://www.apple.com/quicktime/download/'}">
+        <a href="/site_media/taxi.mov" rel="enclosure">click to play</a>
+        
+        <img src="/site_media/media/screenshot-2.png" alt="" />
+        </div>
+        <!-- put img back in div above -->
+        
+
+    </div>
+</div>
+{% endblock %}
+{% block content %}
+<div class="row">
+    <b>Sneak Preview:</b>
+    <br/>
+    Here's an sneak preview of the new Taxi cab functionality we're working on.
+</div>
+{% endblock %}

@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}iGo Toronto › Post{% endblock %}
+{% block head %}
+<style>
+#title
+{
+  padding: 26px 407px 0px 25px;
+}
+#content
+{
+  padding: 25px 412px 1px 25px;
+}
+
+</style>
+{% endblock %}
+{% block navigation %}
+<li>
+    <a href="/"><span>Home</span></a>
+</li>
+<li>
+    <a href="/about"><span>About</span></a>
+</li>
+<!--<li><a href="contact.php"><span>Contact</span></a></li>-->
+{% endblock %}
+{% block content %}
+    <div class="fullrow">
+       <div class="column seven">
+	  	<div style="font-size:14px;">
+  		{{ post.title }}
+	  	</div>
+	  	<div style="font-size:10px;font-style:italic;">
+	  		{{ post.timestamp }}
+	  	</div>
+	  	<div>
+	  		{{ post.body|safe }}
+	  	</div>
+        </div>
+    </div>
+  {% endblock %}
+ 
+                 

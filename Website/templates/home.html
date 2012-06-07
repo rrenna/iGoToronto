@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}iGo Toronto › Home{% endblock %}
+{% block head %}
+<script type="text/javascript">
+    $(document).ready( function() {
+        jQuery.embedquicktime({
+            jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js',
+            plugin: '/site_media/javascripts/jquery.embedquicktime.js'
+        });
+    });
+    $(document).ready( function() {
+        $("a.link").fancybox({
+            'zoomOpacity'           : true,
+            'zoomSpeedIn'           : 300,
+            'zoomSpeedOut'          : 300,
+        });
+    });
+</script>
+{% endblock %}
+
+{% block navigation_home %}class="current"{% endblock %}
+
+{% block leftContent %}
+<div id="iphone">
+    <div class="img">
+        <!--<div class="hvlog {width: '230', height: '346', controller: 'false', loop: 'true', pluginspage: 'http://www.apple.com/quicktime/download/'}">
+        <a href="media/example.mov" rel="enclosure">click to play</a>
+        </div>-->
+        <!-- put img back in div above -->
+        <img src="/site_media/media/screenshot-3.png" alt="" />
+
+    </div>
+</div>
+{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="column six">
+        <div style="font-family:Lucida Grande; text-shadow:rgba(0,0,0,0.40625) 0px -1px 1px; color: white; font-size: 16px;">
+            News
+        </div>
+        <br/>
+        {% for post in posts %}
+        <div style="font-size:13px;">
+            <a href="/post/{{ post.pk }}/">{{ post.title }}</a>
+        </div>
+        <div style="font-size:10px;">
+            {{ post.timestamp }}
+        </div>
+        <div>
+            {{ post.preview }}
+        </div>
+        <br/>
+        {% endfor %}
+        <p>
+            iGo Toronto is the perfect sidekick for GO Train & Subway commuters.
+
+            Subscribe to TTC, MTO, GO and even weather news feeds to get the scoop on your morning commute.
+
+            Access schedules for all GO Train stations and get up-to-date weather and traffic information, all in one easy-to-use app. Now also access a detailed Subway map.
+
+            Live departures from Union station platform allows you to be informed of accidents and delays.
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="column oneandahalf">
+        <p>
+            <a href="/site_media/media/screenshot-1.png" class="link" rel="group2" title="GO Train Map">
+            <img src="/site_media/media/screenshot-1-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column oneandahalf">
+        <p>
+            <a href="/site_media/media/screenshot-2.png" class="link" rel="group2" title="Go Route Viewing">
+            <img src="/site_media/media/screenshot-2-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column three">
+        <p>
+            <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=409407157&amp;mt=8" class="appstore">Available in the apple store</a>
+        </p>
+        <!-- <p><a class="appstore-soon">Soon available in the apple store</a></p> -->
+    </div>
+</div>
+{% endblock %}
+

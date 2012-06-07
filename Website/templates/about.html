@@ -1,0 +1,157 @@
+{% extends "base.html" %}
+{% block title %}iGo Toronto › About{% endblock %}
+{% block head %}
+<script type="text/javascript">
+    $(document).ready( function() {
+        jQuery.embedquicktime({
+            jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js',
+            plugin: '/site_media/javascripts/jquery.embedquicktime.js'
+        });
+    });
+    $(document).ready( function() {
+        $("a.link").fancybox({
+            'zoomOpacity'           : true,
+            'zoomSpeedIn'           : 300,
+            'zoomSpeedOut'          : 300,
+        });
+    });
+</script>
+{% endblock %}
+
+{% block navigation_about %}class="current"{% endblock %}
+
+{% block leftContent %}
+<div id="iphone">
+    <div class="img">
+        <!--<div class="hvlog {width: '230', height: '346', controller: 'false', loop: 'true', pluginspage: 'http://www.apple.com/quicktime/download/'}">
+        <a href="media/example.mov" rel="enclosure">click to play</a>
+        </div>-->
+        <!-- put img back in div above -->
+        <img src="/site_media/media/screenshot-6.png" alt="" />
+
+    </div>
+</div>
+{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="column three">
+        <p>
+            <a href="/site_media/media/screenshot-1.png" class="link wide" rel="group" title="Go Train Map">
+            <img src="/site_media/media/screenshot-1-thumb-2.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column three">
+        <p>
+            <a href="/site_media/media/screenshot-2.png" class="link wide" rel="group" title="Go Route Viewing">
+            <img src="/site_media/media/screenshot-2-thumb-2.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="column oneandahalf">
+        <p>
+            <a href="/site_media/media/screenshot-1.png" class="link" rel="group2" title="Go Train Map">
+            <img src="/site_media/media/screenshot-1-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column oneandahalf">
+        <p>
+            <a href="/site_media/media/screenshot-2.png" class="link" rel="group2" title="Go Route Viewing">
+            <img src="/site_media/media/screenshot-2-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+    <div class="column three">
+        <p>
+            <a href="/site_media/media/screenshot-3.png" class="link wide" rel="group2" title="Live Commuter and Weather News">
+            <img src="/site_media/media/screenshot-3-thumb.png" alt="" /><span class="img">open image</span></a>
+        </p>
+    </div>
+</div>
+<!--
+<div class="row">
+<div class="column six">
+<h2>A normal h2</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<p>Wuis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <a href="#">Excepteur</a> sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+</div>
+-->
+
+<div class="row">
+    <div class="column three">
+        <h2>FEATURES</h2>
+            <ul>
+              <li>
+              Beautiful, Minimalist, Easy to Use interface 
+              </li>
+            </ul>
+            NEWS
+            <ul>
+              <li>
+                Users can subscribe to Go Train, TTC, and highway traffic alerts, weather information and more
+              </li>
+              <li>
+                Current weather is presented to you with gorgeous graphical icons
+              </li> 
+            </ul>
+            GO TRANSIT
+            <ul>
+              <li>
+                Live departures from the Union Station platform status board
+              </li>
+              <li>
+                All GO Train station schedules can be fully accessed online or offline
+              </li>
+              <li>
+                Nearby GO Stations can be listed by distance, and mapped with built in GPS functionality
+              </li>
+            </ul>  
+    </div>
+    <div class="column three">
+     <br/>
+    	TTC
+    	<ul>
+    	  <li>
+    	    Detailed Subway system map
+    	  </li>
+    		<li>
+          Subway stations can be listed by distance from your current position, and displayed on a map
+        </li>
+        <li>
+         Subway station's TTC bus and streetcar connections are provided
+        </li>
+   		</ul>
+   		TAXI
+   		<ul>
+   		  <li>
+   		    Full Toronto taxi cab company listing, call any cab company from within the app
+   		  </li>
+   		  <li>
+   		    Taxi fare calculator, takes both route and time into account
+   		  </li>
+   		</ul>
+        <h2>More on the way!</h2>
+        <p>
+            iGo Toronto is app that's constantly expanding and changing based on user feedback. We love hearing from you, and have big plans for the future. How can we make your Toronto commute better?
+        </p>
+    </div>
+</div>
+<!--
+<div class="row">
+<h2>Or above two columns</h2>
+<div class="column three">
+<ul>
+<li>Duis aute irure dolor in reprehenderit</li>
+<li>Sunt in culpa qui officia deserunt</li>
+<li>Ut enim ad minim <abbr title="iets">veniam</abbr></li>
+</ul>
+</div>
+<div class="column three">
+<ul>
+<li>Esse cillum dolore eu fugiat nulla.</li>
+<li>nisi ut aliquip ex ea commodo</li>
+<li>Soccaecat cupidatat non proident</li>
+</ul>
+</div>
+</div>-->
+{% endblock %}

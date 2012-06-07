@@ -1,0 +1,21 @@
+html, body 
+{
+  font-family:helvetica;
+}
+.blog_title
+{
+  font-family:helvetica;
+  text-decoration:underline;
+  font-size:16px;
+  
+}
+.blog_date
+{
+  font-size:10px;
+  font-style: italic;
+}
+.blog_body
+{
+  
+  
+}

@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/ScheduleParser.m \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/NetworkRequest.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/HTMLParser.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/HTMLNode.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/TBXML.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/HelperModelClasses.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDLine.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDEntity.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDRoute.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDStation.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDLocation.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDSubwayStation.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDStop.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDFactoid.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDDirection.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDRoadway.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDCamera.h \
+  /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/CDDayType.h

@@ -1,0 +1,37 @@
+Contents of /Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/ScheduleParser_Prefix.pch
+4.0 (tags/Apple/clang-421.0.11) (based on LLVM 3.1svn)
+x86_64-apple-darwin12.0.0
+-x
+objective-c
+-arch
+x86_64
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-DPRINT_EACH_RECORDED_STOP=0
+-DPRINT_EACH_RECORDED_STATION=0
+-DDELETE_EXISTING_DATASTORE=1
+-DPRINT_EACH_UNRECORDED_STOP=0
+-DLOG_HTTP_RESPONSE=0
+-DPRINT_EACH_VALIDATED_STATION=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+-fasm-blocks
+-mmacosx-version-min=10.8
+-g
+-fvisibility=hidden
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-iquote
+-iquote
+-I/Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/DerivedData/ScheduleParser/Build/Products/Debug/include
+-I/Volumes/Xcode/Xcode44-DP5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/libxml2
+-I/Volumes/Xcode/Xcode44-DP5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/libxml2/libxml
+-F/Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser/DerivedData/ScheduleParser/Build/Products/Debug
+-ferror-limit=10
+-working-directory=/Users/rrenna360/Desktop/iGoToronto/igotoronto_igotoronto/Code/ScheduleParser
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=12A178n

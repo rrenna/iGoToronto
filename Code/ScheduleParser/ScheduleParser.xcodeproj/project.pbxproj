@@ -1,0 +1,384 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		288AFF320F563D130085E73F /* ScheduleParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 288AFF310F563D130085E73F /* ScheduleParser.m */; };
+		288AFF370F563DBA0085E73F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288AFF360F563DBA0085E73F /* CoreData.framework */; };
+		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
+		A615FC7D128C5EC000565FD4 /* ScheduleParser.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = A615FC7C128C5EC000565FD4 /* ScheduleParser.xcdatamodel */; };
+		A6203F0E126A2ED20080C4CA /* HelperModelClasses.m in Sources */ = {isa = PBXBuildFile; fileRef = A6203F0D126A2ED20080C4CA /* HelperModelClasses.m */; };
+		A67857F2126929D900BFCC2C /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A67857F1126929D900BFCC2C /* libxml2.dylib */; };
+		A68D061912EB7E5E00CBA28D /* TBXML.m in Sources */ = {isa = PBXBuildFile; fileRef = A68D061812EB7E5E00CBA28D /* TBXML.m */; };
+		A695CB3F1306FB3700C86667 /* trafficcameras.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = A660CE8312F3D70700D28D5D /* trafficcameras.txt */; };
+		A695CB401306FB3900C86667 /* subwaystations.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = A68D060012EB794D00CBA28D /* subwaystations.txt */; };
+		A6BAD00211EEA9E100D49A0A /* NetworkRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A6BAD00111EEA9E100D49A0A /* NetworkRequest.m */; };
+		A6BAD00811EEA9F000D49A0A /* HTMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = A6BAD00511EEA9F000D49A0A /* HTMLNode.m */; };
+		A6BAD00911EEA9F000D49A0A /* HTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = A6BAD00711EEA9F000D49A0A /* HTMLParser.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76F9E0486AA7600D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstSubfolderSpec = 7;
+			files = (
+				A695CB3F1306FB3700C86667 /* trafficcameras.txt in CopyFiles */,
+				A695CB401306FB3900C86667 /* subwaystations.txt in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		288AFF310F563D130085E73F /* ScheduleParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleParser.m; sourceTree = "<group>"; };
+		288AFF330F563D1C0085E73F /* ScheduleParser.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; path = ScheduleParser.1; sourceTree = "<group>"; };
+		288AFF340F563D390085E73F /* ScheduleParser_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleParser_Prefix.pch; sourceTree = "<group>"; };
+		288AFF360F563DBA0085E73F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		8DD76FA10486AA7600D96B5E /* ScheduleParser */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ScheduleParser; sourceTree = BUILT_PRODUCTS_DIR; };
+		A615FC7C128C5EC000565FD4 /* ScheduleParser.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ScheduleParser.xcdatamodel; sourceTree = "<group>"; };
+		A61D272712E9379C00B334EC /* CDLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDLocation.h; sourceTree = "<group>"; };
+		A61D272812E9379C00B334EC /* CDLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDLocation.m; sourceTree = "<group>"; };
+		A6203F0C126A2ED20080C4CA /* HelperModelClasses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelperModelClasses.h; sourceTree = "<group>"; };
+		A6203F0D126A2ED20080C4CA /* HelperModelClasses.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelperModelClasses.m; sourceTree = "<group>"; };
+		A660CE8312F3D70700D28D5D /* trafficcameras.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = trafficcameras.txt; sourceTree = "<group>"; };
+		A660CE8812F3DCE100D28D5D /* CDCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDCamera.h; sourceTree = "<group>"; };
+		A660CE8912F3DCE100D28D5D /* CDCamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDCamera.m; sourceTree = "<group>"; };
+		A660CE8C12F3DD0E00D28D5D /* CDRoadway.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDRoadway.h; sourceTree = "<group>"; };
+		A660CE8D12F3DD0E00D28D5D /* CDRoadway.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDRoadway.m; sourceTree = "<group>"; };
+		A67857F1126929D900BFCC2C /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		A68D05E812EB6BF300CBA28D /* CDSubwayStation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDSubwayStation.h; sourceTree = "<group>"; };
+		A68D05E912EB6BF300CBA28D /* CDSubwayStation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDSubwayStation.m; sourceTree = "<group>"; };
+		A68D060012EB794D00CBA28D /* subwaystations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = subwaystations.txt; sourceTree = "<group>"; };
+		A68D061712EB7E5E00CBA28D /* TBXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBXML.h; sourceTree = "<group>"; };
+		A68D061812EB7E5E00CBA28D /* TBXML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBXML.m; sourceTree = "<group>"; };
+		A6922CE712C520D40091144D /* CDDayType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDDayType.h; sourceTree = "<group>"; };
+		A6922CE812C520D40091144D /* CDDayType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDDayType.m; sourceTree = "<group>"; };
+		A6B506C912C7A7660059A50E /* CDLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDLine.h; sourceTree = "<group>"; };
+		A6B506CA12C7A7660059A50E /* CDLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDLine.m; sourceTree = "<group>"; };
+		A6BAD00011EEA9E100D49A0A /* NetworkRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkRequest.h; sourceTree = "<group>"; };
+		A6BAD00111EEA9E100D49A0A /* NetworkRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkRequest.m; sourceTree = "<group>"; };
+		A6BAD00411EEA9F000D49A0A /* HTMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLNode.h; sourceTree = "<group>"; };
+		A6BAD00511EEA9F000D49A0A /* HTMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLNode.m; sourceTree = "<group>"; };
+		A6BAD00611EEA9F000D49A0A /* HTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLParser.h; sourceTree = "<group>"; };
+		A6BAD00711EEA9F000D49A0A /* HTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLParser.m; sourceTree = "<group>"; };
+		A6BAD3CD11F5318900D49A0A /* CDStation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDStation.h; sourceTree = "<group>"; };
+		A6BAD3CE11F5318900D49A0A /* CDStation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDStation.m; sourceTree = "<group>"; };
+		A6BAD3CF11F5318900D49A0A /* CDStop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDStop.h; sourceTree = "<group>"; };
+		A6BAD3D011F5318900D49A0A /* CDStop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDStop.m; sourceTree = "<group>"; };
+		A6C295F112C450A9003D1D82 /* CDRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDRoute.h; sourceTree = "<group>"; };
+		A6C295F212C450A9003D1D82 /* CDRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDRoute.m; sourceTree = "<group>"; };
+		A6C295F312C450A9003D1D82 /* CDDirection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDDirection.h; sourceTree = "<group>"; };
+		A6C295F412C450A9003D1D82 /* CDDirection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDDirection.m; sourceTree = "<group>"; };
+		A6E7081A12A5FBC10060FC74 /* CDStop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDStop.h; sourceTree = "<group>"; };
+		A6E7081B12A5FBC10060FC74 /* CDStop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDStop.m; sourceTree = "<group>"; };
+		A6E7082012A5FC0C0060FC74 /* CDEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEntity.h; sourceTree = "<group>"; };
+		A6E7082112A5FC0C0060FC74 /* CDEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEntity.m; sourceTree = "<group>"; };
+		A6F93ABC129DEB140015363F /* CDFactoid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDFactoid.h; sourceTree = "<group>"; };
+		A6F93ABD129DEB140015363F /* CDFactoid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDFactoid.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76F9B0486AA7600D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */,
+				288AFF370F563DBA0085E73F /* CoreData.framework in Frameworks */,
+				A67857F2126929D900BFCC2C /* libxml2.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* «PROJECTNAME» */ = {
+			isa = PBXGroup;
+			children = (
+				A660CE8312F3D70700D28D5D /* trafficcameras.txt */,
+				A68D060012EB794D00CBA28D /* subwaystations.txt */,
+				08FB7795FE84155DC02AAC07 /* Source */,
+				28D1EE350F56433F0089643D /* Model */,
+				C6859EA2029092E104C91782 /* Documentation */,
+				08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = "«PROJECTNAME»";
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				A68D061612EB7E4300CBA28D /* TBXML */,
+				A6BAD00311EEA9E400D49A0A /* Parsers */,
+				A6BACFFF11EEA9D800D49A0A /* Networking */,
+				288AFF340F563D390085E73F /* ScheduleParser_Prefix.pch */,
+				288AFF310F563D130085E73F /* ScheduleParser.m */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				288AFF360F563DBA0085E73F /* CoreData.framework */,
+				08FB779EFE84155DC02AAC07 /* Foundation.framework */,
+				A67857F1126929D900BFCC2C /* libxml2.dylib */,
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76FA10486AA7600D96B5E /* ScheduleParser */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		28D1EE350F56433F0089643D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A660CE8C12F3DD0E00D28D5D /* CDRoadway.h */,
+				A660CE8D12F3DD0E00D28D5D /* CDRoadway.m */,
+				A660CE8812F3DCE100D28D5D /* CDCamera.h */,
+				A660CE8912F3DCE100D28D5D /* CDCamera.m */,
+				A68D05E812EB6BF300CBA28D /* CDSubwayStation.h */,
+				A68D05E912EB6BF300CBA28D /* CDSubwayStation.m */,
+				A61D272712E9379C00B334EC /* CDLocation.h */,
+				A61D272812E9379C00B334EC /* CDLocation.m */,
+				A6B506C912C7A7660059A50E /* CDLine.h */,
+				A6B506CA12C7A7660059A50E /* CDLine.m */,
+				A6922CE712C520D40091144D /* CDDayType.h */,
+				A6922CE812C520D40091144D /* CDDayType.m */,
+				A6C295F112C450A9003D1D82 /* CDRoute.h */,
+				A6C295F212C450A9003D1D82 /* CDRoute.m */,
+				A6C295F312C450A9003D1D82 /* CDDirection.h */,
+				A6C295F412C450A9003D1D82 /* CDDirection.m */,
+				A6E7082012A5FC0C0060FC74 /* CDEntity.h */,
+				A6E7082112A5FC0C0060FC74 /* CDEntity.m */,
+				A615FC7C128C5EC000565FD4 /* ScheduleParser.xcdatamodel */,
+				A6E7081A12A5FBC10060FC74 /* CDStop.h */,
+				A6E7081B12A5FBC10060FC74 /* CDStop.m */,
+				A6F93ABC129DEB140015363F /* CDFactoid.h */,
+				A6F93ABD129DEB140015363F /* CDFactoid.m */,
+				A6203F0C126A2ED20080C4CA /* HelperModelClasses.h */,
+				A6203F0D126A2ED20080C4CA /* HelperModelClasses.m */,
+				A6BAD3CD11F5318900D49A0A /* CDStation.h */,
+				A6BAD3CE11F5318900D49A0A /* CDStation.m */,
+				A6BAD3CF11F5318900D49A0A /* CDStop.h */,
+				A6BAD3D011F5318900D49A0A /* CDStop.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A68D061612EB7E4300CBA28D /* TBXML */ = {
+			isa = PBXGroup;
+			children = (
+				A68D061712EB7E5E00CBA28D /* TBXML.h */,
+				A68D061812EB7E5E00CBA28D /* TBXML.m */,
+			);
+			name = TBXML;
+			sourceTree = "<group>";
+		};
+		A6BACFFF11EEA9D800D49A0A /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				A6BAD00011EEA9E100D49A0A /* NetworkRequest.h */,
+				A6BAD00111EEA9E100D49A0A /* NetworkRequest.m */,
+			);
+			name = Networking;
+			sourceTree = "<group>";
+		};
+		A6BAD00311EEA9E400D49A0A /* Parsers */ = {
+			isa = PBXGroup;
+			children = (
+				A6BAD00411EEA9F000D49A0A /* HTMLNode.h */,
+				A6BAD00511EEA9F000D49A0A /* HTMLNode.m */,
+				A6BAD00611EEA9F000D49A0A /* HTMLParser.h */,
+				A6BAD00711EEA9F000D49A0A /* HTMLParser.m */,
+			);
+			name = Parsers;
+			sourceTree = "<group>";
+		};
+		C6859EA2029092E104C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				288AFF330F563D1C0085E73F /* ScheduleParser.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76F960486AA7600D96B5E /* ScheduleParser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "ScheduleParser" */;
+			buildPhases = (
+				8DD76F990486AA7600D96B5E /* Sources */,
+				8DD76F9B0486AA7600D96B5E /* Frameworks */,
+				8DD76F9E0486AA7600D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ScheduleParser;
+			productInstallPath = "$(HOME)/bin";
+			productName = "«PROJECTNAME»";
+			productReference = 8DD76FA10486AA7600D96B5E /* ScheduleParser */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "ScheduleParser" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* «PROJECTNAME» */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F960486AA7600D96B5E /* ScheduleParser */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76F990486AA7600D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				288AFF320F563D130085E73F /* ScheduleParser.m in Sources */,
+				A6BAD00211EEA9E100D49A0A /* NetworkRequest.m in Sources */,
+				A6BAD00811EEA9F000D49A0A /* HTMLNode.m in Sources */,
+				A6BAD00911EEA9F000D49A0A /* HTMLParser.m in Sources */,
+				A6203F0E126A2ED20080C4CA /* HelperModelClasses.m in Sources */,
+				A615FC7D128C5EC000565FD4 /* ScheduleParser.xcdatamodel in Sources */,
+				A68D061912EB7E5E00CBA28D /* TBXML.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB927508733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ScheduleParser_Prefix.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"PRINT_EACH_RECORDED_STOP=0",
+					"PRINT_EACH_RECORDED_STATION=0",
+					"DELETE_EXISTING_DATASTORE=1",
+					"PRINT_EACH_UNRECORDED_STOP=0",
+					"LOG_HTTP_RESPONSE=0",
+					"PRINT_EACH_VALIDATED_STATION=0",
+				);
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = ScheduleParser;
+			};
+			name = Debug;
+		};
+		1DEB927608733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = ScheduleParser_Prefix.pch;
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_LDFLAGS = "-lxml2";
+				PRODUCT_NAME = ScheduleParser;
+			};
+			name = Release;
+		};
+		1DEB927908733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"PRINT_EACH_RECORDED_STOP=0",
+					"PRINT_EACH_RECORDED_STATION=0",
+					"DELETE_EXISTING_DATASTORE=1",
+					"PRINT_EACH_UNRECORDED_STOP=0",
+					"LOG_HTTP_RESPONSE=0",
+					"PRINT_EACH_VALIDATED_STATION=0",
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "/Volumes/Xcode/Xcode44-DP5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/libxml2/**";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "-lxml2";
+				PREBINDING = NO;
+				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
+			};
+			name = Debug;
+		};
+		1DEB927A08733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "/Volumes/Xcode/Xcode44-DP5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/libxml2/**";
+				OTHER_LDFLAGS = "-lxml2";
+				PREBINDING = NO;
+				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "ScheduleParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927508733DD40010E9CD /* Debug */,
+				1DEB927608733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "ScheduleParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927908733DD40010E9CD /* Debug */,
+				1DEB927A08733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

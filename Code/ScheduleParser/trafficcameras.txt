@@ -1,0 +1,1740 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<cameras>
+	<location id="0">
+		<point lng="-79.525823" lat="43.617933" /> 
+		 
+		<thumb url="/loc33.jpg" align="center"  /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Kipling Ave.</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="1">
+		<point lng="-79.500460" lat="43.622718" /> 
+		  
+		<thumb url="/loc32.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Royal York Ave.</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="2">
+		<point lng="-79.493165" lat="43.624706" /> 
+		  
+		<thumb url="/loc31.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of Grand Ave.</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="3">
+		<point lng="-79.486899" lat="43.625948" /> 
+		  
+		<thumb url="/loc30.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of Parklawn</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="4">
+		<point lng="-79.473938" lat="43.632347" /> 
+		  
+		<thumb url="/loc26.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner roof of Palace Pier</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="5">
+		<point lng="-79.472222" lat="43.633403" /> 
+		  
+		<thumb url="/loc25.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Humber River</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="6">
+		<point lng="-79.465141" lat="43.636789" /> 
+		  
+		<thumb url="/loc24.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Ellis Ave.</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="7">
+		<point lng="-79.452738" lat="43.638653" /> 
+		  
+		<thumb url="/loc23.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Parkside</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="8">
+		<point lng="-79.434843" lat="43.632875" /> 
+		  
+		<thumb url="/loc22.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of Jameson</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="9">
+		<point lng="-79.433984" lat="43.632596" /> 
+		  
+		<thumb url="/loc21.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Jameson</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="10">
+		<point lng="-79.425058" lat="43.633714" /> 
+		  
+		<thumb url="/loc20.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Dufferin</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="11">
+		<point lng="-79.409565" lat="43.637317" /> 
+		  
+		<thumb url="/loc16.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Strachan</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="12">
+		<point lng="-79.400424" lat="43.637659" /> 
+		  
+		<thumb url="/loc14.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of Bathurst</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="13">
+		<point lng="-79.39267873764" lat="43.638583153768" /> 
+		  
+		<thumb url="/loc13.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of Spadina</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="14">
+		<point lng="-79.388322" lat="43.639087" /> 
+		  
+		<thumb url="/loc12.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, east of Spadina (Skydome)</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+    	<location id="18">
+		<point lng="-79.366179" lat="43.652239" /> 
+		  
+		<thumb url="http://www.toronto.ca/trafficimages/loc4.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore and Parliament</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+    	<location id="19">
+		<point lng="-79.347692" lat="43.650655" /> 
+		  
+		<thumb url="/loc28.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Gardiner south side, west of  DVP</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+  	<location id="20">
+		<point lng="-79.433555" lat="43.63199" /> 
+		<icon image="red" size="small" />  
+		<thumb url="/loc19.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore south side, east of Jameson</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="21"> 
+		<point lat="43.630064" lng="-79.42347" />
+		<icon image="red" size="small" />  
+		<thumb url="/loc18.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore south side, east of Dufferin</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="22"> 
+		<point lat="43.633932" lng="-79.408943" />
+		<icon image="red" size="small" />  
+		<thumb url="/loc17.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore south side, west of Strachan</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="23"> 
+		<point lat="43.636385" lng="-79.399802" />
+		<icon image="red" size="small" />  
+		<thumb url="/loc15.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore south side, west of Bathurst</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="24"> 
+		<point lat="43.638482" lng="-79.391863" />
+		<icon image="red" size="small" />  
+		<thumb url="/loc11.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore south side, east of Spadina</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="25"> 
+		<point lat="43.642255" lng="-79.377207" />
+		<icon image="red" size="small" />  
+		<thumb url="http://www.toronto.ca/trafficimages/loc8.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore and Bay</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+
+	<location id="27"> 
+		<point lat="43.645438" lng="-79.369997" />
+		<icon image="red" size="small" />  
+		<thumb url="http://www.toronto.ca/trafficimages/loc5.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Lakeshore and Jarvis</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+
+	<location id="31"> 
+		<point lat="43.657036" lng="-79.352509" />
+		  
+		<thumb url="/loc65.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side north of Eastern</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="32"> 
+		<point lat="43.662035" lng="-79.354805" />
+		  
+		<thumb url="/loc66.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side south of Dundas</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="33"> 
+		<point lat="43.674855" lng="-79.36105" />
+		  
+		<thumb url="/loc67.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side south of  Danforth</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="34"> 
+		<point lat="43.681932" lng="-79.362702" />
+		  
+		<thumb url="/loc68.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP west side south of  Bayview/Bloor ramp</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="35"> 
+		<point lat="43.696501" lng="-79.353733" />
+		  
+		<thumb url="/loc69.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP west side south of Beechwood</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="36"> 
+		<point lat="43.698223" lng="-79.34957" />
+		  
+		<thumb url="/loc70.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP west side north of Millwood</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="37"> 
+		<point lat="43.700333" lng="-79.337639" />
+		  
+		<thumb url="/loc71.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP west side north of Don Mills</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="38"> 
+		<point lat="43.706383" lng="-79.331781" />
+		  
+		<thumb url="/loc73.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP west side south of rail bridge</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="39"> 
+		<point lat="43.712665" lng="-79.325065" />
+		  
+		<thumb url="/loc74.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side north of spanbridge</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="40"> 
+		<point lat="43.718962" lng="-79.328048" />
+		  
+		<thumb url="/loc75.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side south of St. Dennis</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="41"> 
+		<point lat="43.723428" lng="-79.329829" />
+		  
+		<thumb url="/loc76.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side north of Eglinton</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="42"> 
+		<point lat="43.731003" lng="-79.330515" />
+		  
+		<thumb url="/loc77.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP east side north of rail bridge</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+
+	<location id="45"> 
+		<point lat="43.758045" lng="-79.33537" />
+		  
+		<thumb url="http://www.toronto.ca/trafficimages/loc80.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">DVP and York Mills</title>
+		<region>Gardiner / Lakeshore</region>
+		<details>none</details>
+		
+	</location>
+	<location id="46"> 
+		<point lat="43.768754" lng="-79.336395" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc55.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of HWY 401 by HWY 404 North</title>
+		<region>404</region>
+		<details>none</details>
+		
+	</location>
+	<location id="47"> 
+		<point lat="43.775788" lng="-79.339292" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc81.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 404 by Sheppard Ave.</title>
+		<region>404</region>
+		<details>none</details>
+		
+	</location>
+	<location id="48"> 
+		<point lat="43.717395" lng="-79.51799" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc23.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of HWY 401 by HWY 400 North</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="49"> 
+		<point lat="43.736297" lng="-79.526102" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc82.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 400 by Sheppard Ave.</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="50"> 
+		<point lat="43.754496" lng="-79.530136" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc83.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 400 by Finch Ave.</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="51"> 
+		<point lat="43.772767" lng="-79.53417" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc110.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 400 by Steeles Ave.</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="52"> 
+		<point lat="43.783271" lng="-79.536445" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc85.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">West side of HWY 400 by HWY 407</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="53"> 
+		<point lat="43.636603" lng="-79.560713" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc76.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">West side of HWY 427 north of Bloor St.</title>
+		<region>427</region>
+		<details>none</details>
+		
+	</location>
+	<location id="54"> 
+		<point lat="43.654521" lng="-79.568867" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc77.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">West side of HWY 427 north of Rathburn Rd.</title>
+		<region>427</region>
+		<details>none</details>
+		
+	</location>
+	<location id="55"> 
+		<point lat="43.671286" lng="-79.587535" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc33.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of HWY 401 by HWY 427 North</title>
+		<region>427</region>
+		<details>none</details>
+		
+	</location>
+	<location id="56"> 
+		<point lat="43.705514" lng="-79.55758" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc27.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of HWY 401 by HWY 409 North</title>
+		<region>409</region>
+		<details>none</details>
+		
+	</location>
+	<location id="57"> 
+		<point lat="43.600159" lng="-79.644098" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc122.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 403 at Hurontario St.</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="58"> 
+		<point lat="43.607804" lng="-79.636716" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc115.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 403 at Central PKWY East</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="59"> 
+		<point lat="43.613894" lng="-79.630537" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc45.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 403 at Eastgate PKWY</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="60"> 
+		<point lat="43.621848" lng="-79.634613" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc44.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 403 at Eglinton Ave.</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="61"> 
+		<point lat="43.630266" lng="-79.646329" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc43.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 403 by Mason Boulevard</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="62"> 
+		<point lat="43.639181" lng="-79.653453" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc42.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 403 south of HWY 401</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="63"> 
+		<point lat="43.641882" lng="-79.66135" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc41.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of HWY 410 north of HWY 401</title>
+		<region>410</region>
+		<details>none</details>
+		
+	</location>
+	<location id="64"> 
+		<point lat="43.651602" lng="-79.675941" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc75.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South-east side of HWY 410 by Courtney Park Rd.</title>
+		<region>410</region>
+		<details>none</details>
+		
+	</location>
+	<location id="65"> 
+		<point lat="43.85285" lng="-79.022169" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc103.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Harwood Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="66"> 
+		<point lat="43.848641" lng="-79.040322" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc102.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Westney Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="67"> 
+		<point lat="43.846474" lng="-79.051952" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc101.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Church St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="68"> 
+		<point lat="43.841151" lng="-79.065127" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc100.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Brock Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="69"> 
+		<point lat="43.838241" lng="-79.070534" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc99.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Brock Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="70"> 
+		<point lat="43.83109" lng="-79.086585" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc98.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Liverpool Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="71"> 
+		<point lat="43.830037" lng="-79.088644" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc97.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Liverpool Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="72"> 
+		<point lat="43.81808" lng="-79.111046" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc96.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Whites Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="73"> 
+		<point lat="43.816073" lng="-79.114694" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc95.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Whites Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="74"> 
+		<point lat="43.807557" lng="-79.128556" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc94.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Rougemont Dr.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="75"> 
+		<point lat="43.804243" lng="-79.1345" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc93.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Rouge River</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="76"> 
+		<point lat="43.796979" lng="-79.144198" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc92.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Port Union Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="77"> 
+		<point lat="43.795431" lng="-79.151623" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc74.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Kingston Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="78"> 
+		<point lat="43.798977" lng="-79.166085" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc73.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Meadowvale Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="79"> 
+		<point lat="43.7978" lng="-79.185504" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc72.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Conlins Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="80"> 
+		<point lat="43.797382" lng="-79.187221" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc71.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Conlins Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="81"> 
+		<point lat="43.795802" lng="-79.196619" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc70.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Morningside Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="82"> 
+		<point lat="43.794037" lng="-79.211854" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc69.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Neilson Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="83"> 
+		<point lat="43.793169" lng="-79.215738" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc68.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Neilson Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="84"> 
+		<point lat="43.786214" lng="-79.23211" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc67.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Markham Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="85"> 
+		<point lat="43.785269" lng="-79.235372" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc66.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Markham Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="86"> 
+		<point lat="43.782729" lng="-79.245307" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc65.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Bellamy Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="87"> 
+		<point lat="43.780529" lng="-79.254834" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc64.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by McCowan Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="88"> 
+		<point lat="43.778515" lng="-79.264404" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc63.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Brimley Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="89"> 
+		<point lat="43.776749" lng="-79.274575" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc62.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Midland Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="90"> 
+		<point lat="43.774192" lng="-79.284231" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc61.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Kennedy Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="91"> 
+		<point lat="43.772085" lng="-79.294273" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc60.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Birchmount Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="92"> 
+		<point lat="43.769885" lng="-79.303865" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc59.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Warden Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="93"> 
+		<point lat="43.767421" lng="-79.319379" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc58.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Victoria Park Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="94"> 
+		<point lat="43.766615" lng="-79.335794" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc57.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Don Valley PKWY</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="95"> 
+		<point lat="43.766212" lng="-79.346866" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc54.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Don Mills Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="96"> 
+		<point lat="43.765391" lng="-79.362208" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc53.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Leslie St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="97"> 
+		<point lat="43.763454" lng="-79.383344" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc52.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Bayview Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="98"> 
+		<point lat="43.762617" lng="-79.386885" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc51.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Bayview Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="99"> 
+		<point lat="43.755256" lng="-79.404952" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc50.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 east of Yonge St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="100"> 
+		<point lat="43.752311" lng="-79.408128" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc11.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Yonge St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="101"> 
+		<point lat="43.750203" lng="-79.412376" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc12.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Hoggs Hollow</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="102"> 
+		<point lat="43.741817" lng="-79.422419" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc13.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Ave. Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="103"> 
+		<point lat="43.73546" lng="-79.433491" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc14.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Bathurst St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="104"> 
+		<point lat="43.728917" lng="-79.4486403" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc15.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Allen Rd. South</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="105"> 
+		<point lat="43.730592" lng="-79.448597" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc16.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of HWY 401 by Allen Rd. North</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="106"> 
+		<point lat="43.727289" lng="-79.457674" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc17.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Dufferin St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="107"> 
+		<point lat="43.724792" lng="-79.470312" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc18.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Caledonia Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="108"> 
+		<point lat="43.721862" lng="-79.481041" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc19.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Keele St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="109"> 
+		<point lat="43.71862" lng="-79.496834" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc20.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by MTO Operations Centre</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="110"> 
+		<point lat="43.71938" lng="-79.498271" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc21.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 at basket weave by Jane St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="111"> 
+		<point lat="43.717302" lng="-79.507691" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc22.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Jane St.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="112"> 
+		<point lat="43.7154416" lng="-79.517798" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc24.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by HWY 400 South</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="113"> 
+		<point lat="43.712867" lng="-79.535908" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc25.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Weston Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="114"> 
+		<point lat="43.707934" lng="-79.551787" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc26.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Islington Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="115"> 
+		<point lat="43.70024" lng="-79.561314" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc28.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Kipling Ave.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="116"> 
+		<point lat="43.697851" lng="-79.57376" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc29.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Martin Grove Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="117"> 
+		<point lat="43.676718" lng="-79.577322" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc30.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by HWY 27</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="118"> 
+		<point lat="43.670106" lng="-79.586033" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc32.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Carlingview Dr.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="119"> 
+		<point lat="43.667995" lng="-79.589509" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc31.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by HWY 427 South</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="120"> 
+		<point lat="43.66753" lng="-79.59084" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc34.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Renforth Dr.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="121"> 
+		<point lat="43.661786" lng="-79.608049" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc35.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Pearson Airport</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="122"> 
+		<point lat="43.656136" lng="-79.617383" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc36.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Transfer (east of Dixie)</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="123"> 
+		<point lat="43.653993" lng="-79.622855" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc37.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Etobicoke Creek</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="124"> 
+		<point lat="43.647612" lng="-79.636909" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc38.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Dixie Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="125"> 
+		<point lat="43.640889" lng="-79.651715" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc39.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by Tomken Rd.</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="126"> 
+		<point lat="43.638357" lng="-79.657316" />
+		<icon image="white" size="small" />  
+		<thumb url="/loc40.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 401 by HWY 410</title>
+		<region>401</region>
+		<details>none</details>
+		
+	</location>
+	<location id="127"> 
+		<point lat="43.25914342" lng="-79.76773739" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc01.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW by Burlington St.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="128"> 
+		<point lat="43.26351877" lng="-79.77129936" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc02.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW by Woodward Ave.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="129"> 
+		<point lat="43.268893" lng="-79.776577" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc03.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW by Eastport Dr.
+</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="130"> 
+		<point lat="43.274674" lng="-79.782028" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc04.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW Burlington Skyway - Hamilton End</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="131"> 
+		<point lat="43.29729210674675" lng="-79.7966730594635" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc05.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW Burlington Skyway by lift bridge</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="132"> 
+		<point lat="43.300665" lng="-79.798636" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc06.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">Median between  Toronto bound and Niagara bound lanes</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="133"> 
+		<point lat="43.3104402" lng="-79.803485" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc07.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW south of HWY 2</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="134"> 
+		<point lat="43.316654" lng="-79.808635" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc08.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW north of HWY 2</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="135"> 
+		<point lat="43.327862" lng="-79.824471" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc09.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW by Fairview St.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="136"> 
+		<point lat="43.335978" lng="-79.828548" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc10.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">East side of  QEW by HWY 403 junction</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="137"> 
+		<point lat="43.328549" lng="-79.842152" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc11.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of HWY 403 by King Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="138"> 
+		<point lat="43.340286" lng="-79.821166" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc12.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW west of Brant St.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="139"> 
+		<point lat="43.342751" lng="-79.818291" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc13.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW east of Brant St.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="140"> 
+		<point lat="43.353518" lng="-79.80134" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc14.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Guelph Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="141"> 
+		<point lat="43.360227" lng="-79.7941303" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc15.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Guelph Line and Walkers Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="142"> 
+		<point lat="43.367122" lng="-79.786233" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc16.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Walkers Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="143"> 
+		<point lat="43.374297" lng="-79.778594" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc17.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Walkers Line and Appleby Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="144"> 
+		<point lat="43.381752" lng="-79.770398" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc18.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Appleby Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="145"> 
+		<point lat="43.388863" lng="-79.762458" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc19.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Appleby Line and Burloak Dr.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="146"> 
+		<point lat="43.395973" lng="-79.754519" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc20.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Burloak Dr.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="147"> 
+		<point lat="43.402178" lng="-79.748125" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc21.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Burloak Dr. and Bronte Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="148"> 
+		<point lat="43.411781" lng="-79.737567" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc22.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Bronte Rd. and Third Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="149"> 
+		<point lat="43.417798" lng="-79.731302" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc23.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Bronte Rd. and Third Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="150"> 
+		<point lat="43.424437" lng="-79.724006" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc24.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Third Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="151"> 
+		<point lat="43.471452" lng="-79.673151" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc31.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Royal Windsor Dr.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="152"> 
+		<point lat="43.484531" lng="-79.671392" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc32.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Ford Plant</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="153"> 
+		<point lat="43.501919" lng="-79.674203" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc33.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of  QEW by HWY 403</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="154"> 
+		<point lat="43.5093901" lng="-79.662294" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc34.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Winston Churchill Boulevard</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="155"> 
+		<point lat="43.516844" lng="-79.654784" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc35.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Winston Churchill Boulevard and Erin Mills PKWY</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="156"> 
+		<point lat="43.523348" lng="-79.647917" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc36.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Erin Mills PKWY</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="157"> 
+		<point lat="43.536291" lng="-79.632854" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc37.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Erin Mills PKWY and Mississauga Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="158"> 
+		<point lat="43.5528403" lng="-79.611654" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc38.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Mississauga Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="159"> 
+		<point lat="43.560117" lng="-79.606246" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc39.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Mississauga Rd. and HWY 10</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="160"> 
+		<point lat="43.569384" lng="-79.597063" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc40.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by HWY 10</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="161"> 
+		<point lat="43.575913" lng="-79.589939" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc41.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between HWY 10 and Cawthra Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="162"> 
+		<point lat="43.5832509" lng="-79.580583" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc42.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Cawthra Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="163"> 
+		<point lat="43.5905869" lng="-79.574232" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc43.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW between Cawthra Rd. and Dixie Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="164"> 
+		<point lat="43.597611" lng="-79.567236" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc44.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Dixie Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="165"> 
+		<point lat="43.604665" lng="-79.558997" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc45.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by Etobicoke Creek</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="166"> 
+		<point lat="43.607431" lng="-79.556164" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc46.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by  West Mall</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="167"> 
+		<point lat="43.613583" lng="-79.550242" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc48.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">North side of  QEW by HWY 427</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="168"> 
+		<point lat="43.613614" lng="-79.5477104" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc47.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">South side of  QEW by HWY 427</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="169"> 
+		<point lat="43.461579072816235" lng="-79.68358039855957" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc29.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">QEW by Trafalgar Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="170"> 
+		<point lat="43.45323043229961" lng="-79.69203472137451" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc28.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">QEW east of Dorval Dr.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="171"> 
+		<point lat="43.44643852380548" lng="-79.7003173828125" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc27.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">QEW by Dorval Dr.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="172"> 
+		<point lat="43.442450258852965" lng="-79.7046947479248" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc26.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">QEW east of Fourth Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="173"> 
+		<point lat="43.43861753776981" lng="-79.70920085906982" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc25.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">QEW by Fourth Line</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>
+	<location id="174"> 
+		<point lat="43.32436596283928" lng="-79.84678745269775" />
+		<icon image="blue" size="small" />  
+		<thumb url="/BurlCamera/loc75.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 403 west of King Rd.</title>
+		<region>QEW</region>
+		<details>none</details>
+		
+	</location>	
+
+	<location id="176"> 
+		<point lat="43.58598647366555" lng="-79.66014862060547" />
+		<icon image="purple" size="small" />  
+		<thumb url="http://www.mto.gov.on.ca/english/traveller/compass/camera/pictures/BurlCamera/loc79.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 403 by Mavis Rd.</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="177"> 
+		<point lat="43.57153006334838" lng="-79.67426776885986" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc77.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 403 by Creditview Rd.</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>
+	<location id="178"> 
+		<point lat="43.554022280508754" lng="-79.69660520553589" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc74.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 403 by Erin Mills PKWY</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>	
+	<location id="179"> 
+		<point lat="43.543197873873794" lng="-79.70942616462708" />
+		<icon image="purple" size="small" />  
+		<thumb url="/loc72.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 403 by Winston Churchill Boulevard</title>
+		<region>403</region>
+		<details>none</details>
+		
+	</location>	
+	<location id="180"> 
+		<point lat="43.79123364636887" lng="-79.53869819641113" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc112.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 400 by HWY 7</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="181"> 
+		<point lat="43.80037179188022" lng="-79.54123020172119" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc113.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 400 north of HWY 7</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>
+	<location id="182"> 
+		<point lat="43.80926078215946" lng="-79.54369783401489" />
+		<icon image="gray" size="small" />  
+		<thumb url="/loc114.jpg" align="center" /> 
+		  
+		<title xml:space="preserve">HWY 400 by Langstaff Rd.</title>
+		<region>400</region>
+		<details>none</details>
+		
+	</location>	
+</cameras>

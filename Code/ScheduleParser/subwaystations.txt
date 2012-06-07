@@ -1,0 +1,1266 @@
+<root><item><guid>356100</guid><pubDate>Wed, 20 Sep 2006 15:32:35 -0400</pubDate><title>Bathurst</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>565 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+7 Bathurst
+511 Bathurst</description><georss:point>43.66513976352418 -79.4111967086792</georss:point><geo:Point><geo:lat>43.66513976352418</geo:lat><geo:long>-79.4111967086792</geo:long></geo:Point></item><item><guid>355471</guid><pubDate>Tue, 19 Sep 2006 17:21:50 -0400</pubDate><title>Bay</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>64 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+6 Bay T
+ 
+T = Transfer Required
+</description><georss:point>43.66967207739649 -79.38943862915039</georss:point><geo:Point><geo:lat>43.66967207739649</geo:lat><geo:long>-79.38943862915039</geo:long></geo:Point></item><item><guid>355991</guid><pubDate>Wed, 20 Sep 2006 12:59:58 -0400</pubDate><title>Bayview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>550 & Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+ 
+Connecting surface routes:
+11 Bayview T
+85 Sheppard East T
+385 Sheppard East T
+ 
+T = Transfer Required
+</description><georss:point>43.76666214501304 -79.38806533813476</georss:point><geo:Point><geo:lat>43.76666214501304</geo:lat><geo:long>-79.38806533813476</geo:long></geo:Point></item><item><guid>355994</guid><pubDate>Wed, 20 Sep 2006 13:03:41 -0400</pubDate><title>Bessarion</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>701 & Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+ 
+Connecting surface routes:
+85 Sheppard East T
+385 Sheppard East T
+
+T = Transfer Required
+</description><georss:point>43.76921891936102 -79.37669277191162</georss:point><geo:Point><geo:lat>43.76921891936102</geo:lat><geo:long>-79.37669277191162</geo:long></geo:Point></item><item><guid>355476</guid><pubDate>Tue, 19 Sep 2006 17:45:14 -0400</pubDate><title>Bloor-Yonge</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>35 Bloor St. W</address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.67016874852075 -79.38677787780762</georss:point><geo:Point><geo:lat>43.67016874852075</geo:lat><geo:long>-79.38677787780762</geo:long></geo:Point></item><item><guid>356130</guid><pubDate>Wed, 20 Sep 2006 15:46:17 -0400</pubDate><title>Broadview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>90 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+8 Broadview
+62 Mortimer
+87 Cosburn
+100 Flemingdon Park
+322 Coxwell
+504 King
+505 Dundas
+</description><georss:point>43.67625263623785 -79.35888290405273</georss:point><geo:Point><geo:lat>43.67625263623785</geo:lat><geo:long>-79.35888290405273</geo:long></geo:Point></item><item><guid>356129</guid><pubDate>Wed, 20 Sep 2006 15:46:00 -0400</pubDate><title>Castle Frank</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>600 Bloor St. E </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+65 Parliament
+94 Wellesley
+</description><georss:point>43.67362981129841 -79.36859250068665</georss:point><geo:Point><geo:lat>43.67362981129841</geo:lat><geo:long>-79.36859250068665</geo:long></geo:Point></item><item><guid>356131</guid><pubDate>Wed, 20 Sep 2006 15:46:24 -0400</pubDate><title>Chester</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>370 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+No connecting surface routes</description><georss:point>43.67761832217999 -79.35197353363037</georss:point><geo:Point><geo:lat>43.67761832217999</geo:lat><geo:long>-79.35197353363037</geo:long></geo:Point></item><item><guid>356101</guid><pubDate>Wed, 20 Sep 2006 15:32:45 -0400</pubDate><title>Christie</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>726 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+126 Christie T
+ 
+T = Transfer Required
+</description><georss:point>43.663525432098275 -79.41840648651123</georss:point><geo:Point><geo:lat>43.663525432098275</geo:lat><geo:long>-79.41840648651123</geo:long></geo:Point></item><item><guid>356126</guid><pubDate>Wed, 20 Sep 2006 15:44:02 -0400</pubDate><title>College</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>448 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+306 Carlton T
+320 Yonge T
+506 Carlton T
+ 
+T = Transfer Required
+</description><georss:point>43.661321178702764 -79.38321590423584</georss:point><geo:Point><geo:lat>43.661321178702764</geo:lat><geo:long>-79.38321590423584</geo:long></geo:Point></item><item><guid>356135</guid><pubDate>Wed, 20 Sep 2006 15:46:55 -0400</pubDate><title>Coxwell</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1568 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+22 Coxwell
+70 O'Connor
+</description><georss:point>43.683391105700316 -79.32360649108887</georss:point><geo:Point><geo:lat>43.683391105700316</geo:lat><geo:long>-79.32360649108887</geo:long></geo:Point></item><item><guid>355469</guid><pubDate>Tue, 19 Sep 2006 17:20:28 -0400</pubDate><title>Davisville</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1900 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+11 Bayview
+14 Glencairn
+28 Davisville
+97 Yonge
+</description><georss:point>43.69827053165771 -79.39658403396606</georss:point><geo:Point><geo:lat>43.69827053165771</geo:lat><geo:long>-79.39658403396606</geo:long></geo:Point></item><item><guid>355999</guid><pubDate>Wed, 20 Sep 2006 13:09:10 -0400</pubDate><title>Don Mills</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1700 Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+
+Connecting surface routes:
+10 Van Horne
+24 Victoria Park
+25 Don Mills
+85 Sheppard East
+139 Finch East
+167 Pharmacy North
+169 Huntingwood
+190 Scarborough Centre Rocket
+224 Victoria Park North</description><georss:point>43.77512232622267 -79.34703826904297</georss:point><geo:Point><geo:lat>43.77512232622267</geo:lat><geo:long>-79.34703826904297</geo:long></geo:Point></item><item><guid>356133</guid><pubDate>Wed, 20 Sep 2006 15:46:39 -0400</pubDate><title>Donlands</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>990 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+56 Leaside
+72 Pape
+83 Jones
+</description><georss:point>43.68044271039701 -79.33729648590088</georss:point><geo:Point><geo:lat>43.68044271039701</geo:lat><geo:long>-79.33729648590088</geo:long></geo:Point></item><item><guid>356084</guid><pubDate>Wed, 20 Sep 2006 15:10:47 -0400</pubDate><title>Downsview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1035 Sheppard Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+84 Sheppard West
+101 Parc Downsview Park
+104 Faywood
+105 Dufferin North
+106 York University
+107 Keele North
+108 Downsview
+117 Alness
+196 York University Rocket</description><georss:point>43.75051320325138 -79.46230888366699</georss:point><geo:Point><geo:lat>43.75051320325138</geo:lat><geo:long>-79.46230888366699</geo:long></geo:Point></item><item><guid>356104</guid><pubDate>Wed, 20 Sep 2006 15:33:04 -0400</pubDate><title>Dufferin</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1126 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+29 Dufferin T
+329 Dufferin T
+402 Parkdale T
+ 
+T = Transfer Required
+</description><georss:point>43.65986198052727 -79.43540096282959</georss:point><geo:Point><geo:lat>43.65986198052727</geo:lat><geo:long>-79.43540096282959</geo:long></geo:Point></item><item><guid>356125</guid><pubDate>Wed, 20 Sep 2006 15:43:55 -0400</pubDate><title>Dundas</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>300 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+505 Dundas T
+ 
+T = Transfer Required
+</description><georss:point>43.65629145246512 -79.38089847564697</georss:point><geo:Point><geo:lat>43.65629145246512</geo:lat><geo:long>-79.38089847564697</geo:long></geo:Point></item><item><guid>356106</guid><pubDate>Wed, 20 Sep 2006 15:33:21 -0400</pubDate><title>Dundas West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1525 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+40 Junction
+168 Symington
+193 Exhibition Rocket
+306 Carlton
+504 King
+505 Dundas
+</description><georss:point>43.65632250145034 -79.45252418518066</georss:point><geo:Point><geo:lat>43.65632250145034</geo:lat><geo:long>-79.45252418518066</geo:long></geo:Point></item><item><guid>356092</guid><pubDate>Wed, 20 Sep 2006 15:14:04 -0400</pubDate><title>Dupont</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>278 Dupont St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+26 Dupont T
+127 Davenport T
+ 
+T = Transfer Required
+</description><georss:point>43.674941238097645 -79.40663695335388</georss:point><geo:Point><geo:lat>43.674941238097645</geo:lat><geo:long>-79.40663695335388</geo:long></geo:Point></item><item><guid>355465</guid><pubDate>Tue, 19 Sep 2006 17:17:29 -0400</pubDate><title>Eglinton</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2190 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+5 Avenue Rd.
+32 Eglinton West
+34 Eglinton East
+51 Leslie
+54 Lawrence East
+56 Leaside
+61 Avenue Rd. North
+97 Yonge T
+100 Flemingdon Park
+103 Mt. Pleasant North
+305 Eglinton East
+307 Eglinton West
+320 Yonge
+354 Lawrence East
+ 
+T = Transfer Required
+</description><georss:point>43.7067093575883 -79.39832210540771</georss:point><geo:Point><geo:lat>43.7067093575883</geo:lat><geo:long>-79.39832210540771</geo:long></geo:Point></item><item><guid>356089</guid><pubDate>Wed, 20 Sep 2006 15:13:09 -0400</pubDate><title>Eglinton West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1300 Eglinton Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+32 Eglinton West
+63 Ossington
+109 Ranee
+316 Ossington
+</description><georss:point>43.69880574982985 -79.43591594696045</georss:point><geo:Point><geo:lat>43.69880574982985</geo:lat><geo:long>-79.43591594696045</geo:long></geo:Point></item><item><guid>356141</guid><pubDate>Wed, 20 Sep 2006 15:51:00 -0400</pubDate><title>Ellesmere</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1025 Ellesmere Ave. </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+95 York Mills T
+321 York Mills T
+ 
+T = Transfer Required
+</description><georss:point>43.76678611235089 -79.2762279510498</georss:point><geo:Point><geo:lat>43.76678611235089</geo:lat><geo:long>-79.2762279510498</geo:long></geo:Point></item><item><guid>355422</guid><pubDate>Tue, 19 Sep 2006 16:14:31 -0400</pubDate><title>Finch</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5714 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting bus routes:
+36 Finch West
+39 Finch East
+42 Cummer
+53 Steeles East
+60 Steeles West
+97 Yonge T
+125 Drewry
+199 Finch Rocket
+308 Finch East
+309 Finch West
+320 Yonge
+ 
+T = Transfer Required
+</description><georss:point>43.77973928293406 -79.41553115844727</georss:point><geo:Point><geo:lat>43.77973928293406</geo:lat><geo:long>-79.41553115844727</geo:long></geo:Point></item><item><guid>356088</guid><pubDate>Wed, 20 Sep 2006 15:12:46 -0400</pubDate><title>Glencairn</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>785 Glencairn Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+14 Glencairn T
+ 
+T = Transfer Required
+</description><georss:point>43.70951686535267 -79.44121599197388</georss:point><geo:Point><geo:lat>43.70951686535267</geo:lat><geo:long>-79.44121599197388</geo:long></geo:Point></item><item><guid>356134</guid><pubDate>Wed, 20 Sep 2006 15:46:45 -0400</pubDate><title>Greenwood</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1177 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+31 Greenwood
+</description><georss:point>43.68146690624252 -79.33244705200195</georss:point><geo:Point><geo:lat>43.68146690624252</geo:lat><geo:long>-79.33244705200195</geo:long></geo:Point></item><item><guid>356108</guid><pubDate>Wed, 20 Sep 2006 15:33:54 -0400</pubDate><title>High Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1874 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+30 Lambton T
+ 
+T = Transfer Required
+</description><georss:point>43.65359012929569 -79.46531295776367</georss:point><geo:Point><geo:lat>43.65359012929569</geo:lat><geo:long>-79.46531295776367</geo:long></geo:Point></item><item><guid>356115</guid><pubDate>Wed, 20 Sep 2006 15:37:34 -0400</pubDate><title>Islington</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3286 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+37 Islington
+50 Burnhamthorpe
+110 Islington South
+</description><georss:point>43.64464695118206 -79.52337741851807</georss:point><geo:Point><geo:lat>43.64464695118206</geo:lat><geo:long>-79.52337741851807</geo:long></geo:Point></item><item><guid>356112</guid><pubDate>Wed, 20 Sep 2006 15:37:08 -0400</pubDate><title>Jane</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2440 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+26 Dupont T
+35 Jane T
+55 Warren Park T
+321 St Clair
+ 
+T = Transfer Required
+</description><georss:point>43.649367127789695 -79.48445320129395</georss:point><geo:Point><geo:lat>43.649367127789695</geo:lat><geo:long>-79.48445320129395</geo:long></geo:Point></item><item><guid>356107</guid><pubDate>Wed, 20 Sep 2006 15:33:30 -0400</pubDate><title>Keele</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1733 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+41 Keele
+80 Queensway
+89 Weston
+</description><georss:point>43.65467688311126 -79.45999145507812</georss:point><geo:Point><geo:lat>43.65467688311126</geo:lat><geo:long>-79.45999145507812</geo:long></geo:Point></item><item><guid>356139</guid><pubDate>Wed, 20 Sep 2006 15:50:31 -0400</pubDate><title>Kennedy</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2455 Eglinton Ave. E</address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: Subway, RT
+ 
+Connecting surface routes:
+12 Kingston Rd.
+20 Cliffside
+21 Brimley
+34 Eglinton East
+43 Kennedy
+57 Midland
+86 Scarborough
+113 Danforth
+116 Morningside
+131 Nugget
+305 Eglinton East
+</description><georss:point>43.73222027154342 -79.26790237426758</georss:point><geo:Point><geo:lat>43.73222027154342</geo:lat><geo:long>-79.26790237426758</geo:long></geo:Point></item><item><guid>356123</guid><pubDate>Wed, 20 Sep 2006 15:43:24 -0400</pubDate><title>King</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>70 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd. T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+145 Downtown/Humber Bay T
+320 Yonge T
+503 Kingston Rd. T
+504 King T
+508 Lake Shore T
+ 
+T = Transfer Required
+</description><georss:point>43.649180812060614 -79.37785148620605</georss:point><geo:Point><geo:lat>43.649180812060614</geo:lat><geo:long>-79.37785148620605</geo:long></geo:Point></item><item><guid>356116</guid><pubDate>Wed, 20 Sep 2006 15:37:57 -0400</pubDate><title>Kipling</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5247 Dundas St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+30 Lambton
+44 Kipling South
+45 Kipling
+46 Martin Grove
+49 Bloor West
+111 East Mall
+112 West Mall
+123 Shorncliffe
+191 Hwy 27 Rocket
+192 Airport Rocket
+300 Bloor-Danforth
+</description><georss:point>43.638559860152576 -79.53410625457764</georss:point><geo:Point><geo:lat>43.638559860152576</geo:lat><geo:long>-79.53410625457764</geo:long></geo:Point></item><item><guid>356105</guid><pubDate>Wed, 20 Sep 2006 15:33:14 -0400</pubDate><title>Lansdowne</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1287 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+168 Symington T
+402 Parkdale Community Bus T
+ 
+T = Transfer Required
+</description><georss:point>43.65827855515278 -79.44282531738281</georss:point><geo:Point><geo:lat>43.65827855515278</geo:lat><geo:long>-79.44282531738281</geo:long></geo:Point></item><item><guid>355464</guid><pubDate>Tue, 19 Sep 2006 17:15:29 -0400</pubDate><title>Lawrence</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3101 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+52 Lawrence West
+97 Yonge T
+124 Sunnybrook
+162 Lawrence-Donway
+320 Yonge T
+352 Lawrence West
+ 
+T = Transfer Required
+</description><georss:point>43.72511862794112 -79.40218448638916</georss:point><geo:Point><geo:lat>43.72511862794112</geo:lat><geo:long>-79.40218448638916</geo:long></geo:Point></item><item><guid>356140</guid><pubDate>Wed, 20 Sep 2006 15:50:52 -0400</pubDate><title>Lawrence East</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2444 Lawrence Ave. E </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+54 Lawrence East
+354 Lawrence East
+</description><georss:point>43.75054420347562 -79.27009105682373</georss:point><geo:Point><geo:lat>43.75054420347562</geo:lat><geo:long>-79.27009105682373</geo:long></geo:Point></item><item><guid>356087</guid><pubDate>Wed, 20 Sep 2006 15:12:20 -0400</pubDate><title>Lawrence West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>655 Lawrence Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+52 Lawrence West
+58 Malton
+59 Maple Leaf
+109 Ranee
+400 Lawrence Manor
+</description><georss:point>43.71610080830708 -79.44423079490662</georss:point><geo:Point><geo:lat>43.71610080830708</geo:lat><geo:long>-79.44423079490662</geo:long></geo:Point></item><item><guid>355996</guid><pubDate>Wed, 20 Sep 2006 13:06:14 -0400</pubDate><title>Leslie</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1209  & Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+
+Connecting surface routes:
+51 Leslie
+85 Sheppard East T
+385 Sheppard East T
+ 
+T = Transfer Required
+</description><georss:point>43.77163613277956 -79.3641185760498</georss:point><geo:Point><geo:lat>43.77163613277956</geo:lat><geo:long>-79.3641185760498</geo:long></geo:Point></item><item><guid>356137</guid><pubDate>Wed, 20 Sep 2006 15:47:17 -0400</pubDate><title>Main Street</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2550 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+20 Cliffside
+23 Dawes
+62 Mortimer
+64 Main
+87 Cosburn
+113 Danforth
+135 Gerrard
+306 Carlton
+406 Variety Village Community Link
+506 Carlton
+</description><georss:point>43.68817030184036 -79.3018913269043</georss:point><geo:Point><geo:lat>43.68817030184036</geo:lat><geo:long>-79.3018913269043</geo:long></geo:Point></item><item><guid>356143</guid><pubDate>Wed, 20 Sep 2006 15:51:23 -0400</pubDate><title>McCowan</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1275 McCowan Rd. </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+9 Bellamy T
+134 Progress T
+ 
+T = Transfer Required
+</description><georss:point>43.77490541344873 -79.25236701965332</georss:point><geo:Point><geo:lat>43.77490541344873</geo:lat><geo:long>-79.25236701965332</geo:long></geo:Point></item><item><guid>356142</guid><pubDate>Wed, 20 Sep 2006 15:51:12 -0400</pubDate><title>Midland</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2085 Midland Ave. </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+57 Midland T
+ 
+T = Transfer Required
+</description><georss:point>43.77038105339037 -79.27202224731445</georss:point><geo:Point><geo:lat>43.77038105339037</geo:lat><geo:long>-79.27202224731445</geo:long></geo:Point></item><item><guid>356117</guid><pubDate>Wed, 20 Sep 2006 15:40:22 -0400</pubDate><title>Museum</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>75 Queen's Park </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+5 Avenue Rd. T
+94 Wellesley T
+142 Downtown/Avenue T
+ 
+T = Transfer Required
+</description><georss:point>43.6671265733766 -79.39347267150879</georss:point><geo:Point><geo:lat>43.6671265733766</geo:lat><geo:long>-79.39347267150879</geo:long></geo:Point></item><item><guid>355423</guid><pubDate>Tue, 19 Sep 2006 16:17:43 -0400</pubDate><title>North York Centre</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5152 Yonge Street </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+
+T = Transfer Required
+</description><georss:point>43.76836667338831 -79.41269874572754</georss:point><geo:Point><geo:lat>43.76836667338831</geo:lat><geo:long>-79.41269874572754</geo:long></geo:Point></item><item><guid>356113</guid><pubDate>Wed, 20 Sep 2006 15:37:21 -0400</pubDate><title>Old Mill</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2672 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+66 Prince Edward T
+
+T = Transfer Required
+</description><georss:point>43.650050280518336 -79.49904441833496</georss:point><geo:Point><geo:lat>43.650050280518336</geo:lat><geo:long>-79.49904441833496</geo:long></geo:Point></item><item><guid>356119</guid><pubDate>Wed, 20 Sep 2006 15:41:27 -0400</pubDate><title>Osgoode</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>250 University Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+142 Downtown/Avenue Rd. T
+301 Queen T
+501 Queen T
+502 Downtowner T
+ 
+T = Transfer Required
+</description><georss:point>43.65079552917852 -79.38652038574219</georss:point><geo:Point><geo:lat>43.65079552917852</geo:lat><geo:long>-79.38652038574219</geo:long></geo:Point></item><item><guid>356103</guid><pubDate>Wed, 20 Sep 2006 15:32:54 -0400</pubDate><title>Ossington</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>883 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+63 Ossington
+94 Wellesley
+161 Rogers Rd.
+</description><georss:point>43.66197314940332 -79.42557334899902</georss:point><geo:Point><geo:lat>43.66197314940332</geo:lat><geo:long>-79.42557334899902</geo:long></geo:Point></item><item><guid>356132</guid><pubDate>Wed, 20 Sep 2006 15:46:30 -0400</pubDate><title>Pape</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>650 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+25 Don Mills
+81 Thorncliffe
+303 Don Mills
+</description><georss:point>43.67898397703966 -79.34484958648682</georss:point><geo:Point><geo:lat>43.67898397703966</geo:lat><geo:long>-79.34484958648682</geo:long></geo:Point></item><item><guid>356124</guid><pubDate>Wed, 20 Sep 2006 15:43:48 -0400</pubDate><title>Queen</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>171 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+301 Queen T
+320 Yonge T
+501 Queen T
+502 Downtowner T
+ 
+T = Transfer Required
+</description><georss:point>43.65241020288564 -79.37931060791016</georss:point><geo:Point><geo:lat>43.65241020288564</geo:lat><geo:long>-79.37931060791016</geo:long></geo:Point></item><item><guid>356095</guid><pubDate>Wed, 20 Sep 2006 15:15:49 -0400</pubDate><title>Queen's Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>671 University Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+</description><georss:point>43.659854218740016 -79.39047932624817</georss:point><geo:Point><geo:lat>43.659854218740016</geo:lat><geo:long>-79.39047932624817</geo:long></geo:Point></item><item><guid>355470</guid><pubDate>Tue, 19 Sep 2006 17:21:00 -0400</pubDate><title>Rosedale</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1009 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+82 Rosedale
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.67712171270642 -79.38958883285522</georss:point><geo:Point><geo:lat>43.67712171270642</geo:lat><geo:long>-79.38958883285522</geo:long></geo:Point></item><item><guid>356114</guid><pubDate>Wed, 20 Sep 2006 15:37:27 -0400</pubDate><title>Royal York</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3012 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+15 Evans
+48 Rathburn
+73 Royal York
+76 Royal York South
+</description><georss:point>43.647379730216116 -79.51136112213135</georss:point><geo:Point><geo:lat>43.647379730216116</geo:lat><geo:long>-79.51136112213135</geo:long></geo:Point></item><item><guid>356111</guid><pubDate>Wed, 20 Sep 2006 15:35:51 -0400</pubDate><title>Runnymede</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2218 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+71 Runnymede T
+77 Swansea T
+79 Scarlett Rd. T
+ 
+T = Transfer Required
+</description><georss:point>43.651106046724365 -79.47629928588867</georss:point><geo:Point><geo:lat>43.651106046724365</geo:lat><geo:long>-79.47629928588867</geo:long></geo:Point></item><item><guid>356144</guid><pubDate>Wed, 20 Sep 2006 15:51:43 -0400</pubDate><title>Scarborough Centre</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>Scar. Town Centre </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+9 Bellamy
+16 McCowan
+21 Brimley
+38 Highland Creek
+43 Kennedy
+129 McCowan North
+130 Middlefield
+131 Nugget
+132 Milner
+133 Neilson
+134 Progress
+169 Huntingwood 
+190 Scarborough Centre Rocket
+199 Finch Rocket
+</description><georss:point>43.77471948758769 -79.25717353820801</georss:point><geo:Point><geo:lat>43.77471948758769</geo:lat><geo:long>-79.25717353820801</geo:long></geo:Point></item><item><guid>355425</guid><pubDate>Tue, 19 Sep 2006 16:22:05 -0400</pubDate><title>Sheppard-Yonge</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>4800 Yonge St.</address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Shedules: YUS, S
+ 
+Connecting surface routes:
+84 Sheppard West
+85 Sheppard East
+97 Yonge T
+98 Willowdale-Senlac
+196 York University Rocket
+320 Yonge
+385 Sheppard East
+ 
+T = Transfer Required
+ 
+</description><georss:point>43.76147078210927 -79.41096067428589</georss:point><geo:Point><geo:lat>43.76147078210927</geo:lat><geo:long>-79.41096067428589</geo:long></geo:Point></item><item><guid>356128</guid><pubDate>Wed, 20 Sep 2006 15:45:48 -0400</pubDate><title>Sherbourne</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>420 Bloor St. E </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+75 Sherbourne T
+ 
+T = Transfer Required
+</description><georss:point>43.67234163636449 -79.37686443328857</georss:point><geo:Point><geo:lat>43.67234163636449</geo:lat><geo:long>-79.37686443328857</geo:long></geo:Point></item><item><guid>356093</guid><pubDate>Wed, 20 Sep 2006 15:14:57 -0400</pubDate><title>Spadina</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>371 Bloor St. W</address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+127 Davenport
+510 Spadina
+</description><georss:point>43.666637637989744 -79.40378308296204</georss:point><geo:Point><geo:lat>43.666637637989744</geo:lat><geo:long>-79.40378308296204</geo:long></geo:Point></item><item><guid>356120</guid><pubDate>Wed, 20 Sep 2006 15:41:36 -0400</pubDate><title>St. Andrew</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>147 University Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd. T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+145 Downtown/Humber Bay T
+503 Kingston Rd. T
+504 King T
+508 Lake Shore T
+ 
+T = Transfer Required
+</description><georss:point>43.64765921197332 -79.38480377197266</georss:point><geo:Point><geo:lat>43.64765921197332</geo:lat><geo:long>-79.38480377197266</geo:long></geo:Point></item><item><guid>355467</guid><pubDate>Tue, 19 Sep 2006 17:18:11 -0400</pubDate><title>St. Clair</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1441 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+74 Mt. Pleasant
+88 South Leaside
+97 Yonge
+312 St. Clair
+320 Yonge T
+512 St. Clair
+ 
+T = Transfer Required
+</description><georss:point>43.688108236798435 -79.39407348632812</georss:point><geo:Point><geo:lat>43.688108236798435</geo:lat><geo:long>-79.39407348632812</geo:long></geo:Point></item><item><guid>356091</guid><pubDate>Wed, 20 Sep 2006 15:13:43 -0400</pubDate><title>St. Clair West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>370 St. Clair Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+33 Forest Hill
+90 Vaughan
+126 Christie
+512 St. Clair
+</description><georss:point>43.68388766328392 -79.41468358039856</georss:point><geo:Point><geo:lat>43.68388766328392</geo:lat><geo:long>-79.41468358039856</geo:long></geo:Point></item><item><guid>356094</guid><pubDate>Wed, 20 Sep 2006 15:15:20 -0400</pubDate><title>St. George</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>323 Bloor St. W</address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+26 Dupont
+</description><georss:point>43.66752237529663 -79.39980268478394</georss:point><geo:Point><geo:lat>43.66752237529663</geo:lat><geo:long>-79.39980268478394</geo:long></geo:Point></item><item><guid>356118</guid><pubDate>Wed, 20 Sep 2006 15:40:43 -0400</pubDate><title>St. Patrick</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>449 University Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+142 Downtown/Avenue Rd T
+505 Dundas T
+ 
+T = Transfer Required
+</description><georss:point>43.654832132050906 -79.38823699951172</georss:point><geo:Point><geo:lat>43.654832132050906</geo:lat><geo:long>-79.38823699951172</geo:long></geo:Point></item><item><guid>355468</guid><pubDate>Tue, 19 Sep 2006 17:19:26 -0400</pubDate><title>Summerhill</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1189 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.68304971997738 -79.3920350074768</georss:point><geo:Point><geo:lat>43.68304971997738</geo:lat><geo:long>-79.3920350074768</geo:long></geo:Point></item><item><guid>356121</guid><pubDate>Wed, 20 Sep 2006 15:41:44 -0400</pubDate><title>Union</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>55 Front St. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+6 Bay T
+72 Pape T
+97 Yonge T
+320 Yonge T
+509 Harbourfront
+510 Spadina
+ 
+T = Transfer Required
+</description><georss:point>43.645609648889256 -79.38064098358154</georss:point><geo:Point><geo:lat>43.645609648889256</geo:lat><geo:long>-79.38064098358154</geo:long></geo:Point></item><item><guid>356138</guid><pubDate>Wed, 20 Sep 2006 15:47:26 -0400</pubDate><title>Victoria Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>777 Victoria Park Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+12 Kingston Rd.
+24 Victoria Park
+67 Pharmacy
+404 East York Community Bus
+</description><georss:point>43.69437648171791 -79.28970336914062</georss:point><geo:Point><geo:lat>43.69437648171791</geo:lat><geo:long>-79.28970336914062</geo:long></geo:Point></item><item><guid>356146</guid><pubDate>Wed, 20 Sep 2006 15:53:16 -0400</pubDate><title>Warden</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3276 St. Clair Ave. E </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+9 Bellamy
+16 McCowan
+17 Birchmount
+68 Warden
+69 Warden South
+70 O'Connor
+102 Markham Rd.
+135 Gerrard
+</description><georss:point>43.7119364902909 -79.28103446960449</georss:point><geo:Point><geo:lat>43.7119364902909</geo:lat><geo:long>-79.28103446960449</geo:long></geo:Point></item><item><guid>356127</guid><pubDate>Wed, 20 Sep 2006 15:44:11 -0400</pubDate><title>Wellesley</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>551 Yonge. St </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+94 Wellesley
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.66482931854453 -79.3846321105957</georss:point><geo:Point><geo:lat>43.66482931854453</geo:lat><geo:long>-79.3846321105957</geo:long></geo:Point></item><item><guid>356085</guid><pubDate>Wed, 20 Sep 2006 15:11:22 -0400</pubDate><title>Wilson</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>570 Wilson Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+29 Dufferin
+96 Wilson
+104 Faywood
+106 York University
+107 Keele North
+108 Downsview
+117 Alness
+120 Calvington
+160 Bathurst North
+165 Weston Rd. North
+329 Dufferin
+</description><georss:point>43.73398779868292 -79.44994926452637</georss:point><geo:Point><geo:lat>43.73398779868292</geo:lat><geo:long>-79.44994926452637</geo:long></geo:Point></item><item><guid>356136</guid><pubDate>Wed, 20 Sep 2006 15:47:06 -0400</pubDate><title>Woodbine</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2072 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+91 Woodbine
+92 Woodbine South</description><georss:point>43.685501447045176 -79.31339263916016</georss:point><geo:Point><geo:lat>43.685501447045176</geo:lat><geo:long>-79.31339263916016</geo:long></geo:Point></item><item><guid>355426</guid><pubDate>Tue, 19 Sep 2006 16:23:33 -0400</pubDate><title>York Mills</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>4015 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+78 St. Andrews
+95 York Mills 
+96 Wilson 
+97 Yonge
+115 Silver Hills 
+122 Graydon Hall 
+165 Weston Rd. North
+319 Wilson
+320 Yonge
+321 York Mills
+</description><georss:point>43.74406480759712 -79.40677642822266</georss:point><geo:Point><geo:lat>43.74406480759712</geo:lat><geo:long>-79.40677642822266</geo:long></geo:Point></item><item><guid>356086</guid><pubDate>Wed, 20 Sep 2006 15:11:38 -0400</pubDate><title>Yorkdale</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>Yorkdale Shopping Ctr. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+109 Ranee T
+ 
+T = Transfer Required
+</description><georss:point>43.725103121247834 -79.44767475128174</georss:point><geo:Point><geo:lat>43.725103121247834</geo:lat><geo:long>-79.44767475128174</geo:long></geo:Point></item><root><item><guid>356100</guid><pubDate>Wed, 20 Sep 2006 15:32:35 -0400</pubDate><title>Bathurst</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>565 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+7 Bathurst
+511 Bathurst</description><georss:point>43.66513976352418 -79.4111967086792</georss:point><geo:Point><geo:lat>43.66513976352418</geo:lat><geo:long>-79.4111967086792</geo:long></geo:Point></item><item><guid>355471</guid><pubDate>Tue, 19 Sep 2006 17:21:50 -0400</pubDate><title>Bay</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>64 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+6 Bay T
+ 
+T = Transfer Required
+</description><georss:point>43.66967207739649 -79.38943862915039</georss:point><geo:Point><geo:lat>43.66967207739649</geo:lat><geo:long>-79.38943862915039</geo:long></geo:Point></item><item><guid>355991</guid><pubDate>Wed, 20 Sep 2006 12:59:58 -0400</pubDate><title>Bayview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>550 & Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+
+Connecting surface routes:
+11 Bayview T
+85 Sheppard East T
+385 Sheppard East T
+
+T = Transfer Required
+</description><georss:point>43.76666214501304 -79.38806533813476</georss:point><geo:Point><geo:lat>43.76666214501304</geo:lat><geo:long>-79.38806533813476</geo:long></geo:Point></item><item><guid>355994</guid><pubDate>Wed, 20 Sep 2006 13:03:41 -0400</pubDate><title>Bessarion</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>701 & Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+
+Connecting surface routes:
+85 Sheppard East T
+385 Sheppard East T
+ 
+T = Transfer Required
+</description><georss:point>43.76921891936102 -79.37669277191162</georss:point><geo:Point><geo:lat>43.76921891936102</geo:lat><geo:long>-79.37669277191162</geo:long></geo:Point></item><item><guid>355476</guid><pubDate>Tue, 19 Sep 2006 17:45:14 -0400</pubDate><title>Bloor-Yonge</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>35 Bloor St. W</address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.67016874852075 -79.38677787780762</georss:point><geo:Point><geo:lat>43.67016874852075</geo:lat><geo:long>-79.38677787780762</geo:long></geo:Point></item><item><guid>356130</guid><pubDate>Wed, 20 Sep 2006 15:46:17 -0400</pubDate><title>Broadview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>90 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+8 Broadview
+62 Mortimer
+87 Cosburn
+100 Flemingdon Park
+322 Coxwell
+504 King
+505 Dundas
+</description><georss:point>43.67625263623785 -79.35888290405273</georss:point><geo:Point><geo:lat>43.67625263623785</geo:lat><geo:long>-79.35888290405273</geo:long></geo:Point></item><item><guid>356129</guid><pubDate>Wed, 20 Sep 2006 15:46:00 -0400</pubDate><title>Castle Frank</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>600 Bloor St. E </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+65 Parliament
+94 Wellesley
+</description><georss:point>43.67362981129841 -79.36859250068665</georss:point><geo:Point><geo:lat>43.67362981129841</geo:lat><geo:long>-79.36859250068665</geo:long></geo:Point></item><item><guid>356131</guid><pubDate>Wed, 20 Sep 2006 15:46:24 -0400</pubDate><title>Chester</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>370 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+No connecting surface routes</description><georss:point>43.67761832217999 -79.35197353363037</georss:point><geo:Point><geo:lat>43.67761832217999</geo:lat><geo:long>-79.35197353363037</geo:long></geo:Point></item><item><guid>356101</guid><pubDate>Wed, 20 Sep 2006 15:32:45 -0400</pubDate><title>Christie</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>726 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+126 Christie T
+ 
+T = Transfer Required
+</description><georss:point>43.663525432098275 -79.41840648651123</georss:point><geo:Point><geo:lat>43.663525432098275</geo:lat><geo:long>-79.41840648651123</geo:long></geo:Point></item><item><guid>356126</guid><pubDate>Wed, 20 Sep 2006 15:44:02 -0400</pubDate><title>College</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>448 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+306 Carlton T
+320 Yonge T
+506 Carlton T
+ 
+T = Transfer Required
+</description><georss:point>43.661321178702764 -79.38321590423584</georss:point><geo:Point><geo:lat>43.661321178702764</geo:lat><geo:long>-79.38321590423584</geo:long></geo:Point></item><item><guid>356135</guid><pubDate>Wed, 20 Sep 2006 15:46:55 -0400</pubDate><title>Coxwell</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1568 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+22 Coxwell
+70 O'Connor
+</description><georss:point>43.683391105700316 -79.32360649108887</georss:point><geo:Point><geo:lat>43.683391105700316</geo:lat><geo:long>-79.32360649108887</geo:long></geo:Point></item><item><guid>355469</guid><pubDate>Tue, 19 Sep 2006 17:20:28 -0400</pubDate><title>Davisville</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1900 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+11 Bayview
+14 Glencairn
+28 Davisville
+97 Yonge
+</description><georss:point>43.69827053165771 -79.39658403396606</georss:point><geo:Point><geo:lat>43.69827053165771</geo:lat><geo:long>-79.39658403396606</geo:long></geo:Point></item><item><guid>355999</guid><pubDate>Wed, 20 Sep 2006 13:09:10 -0400</pubDate><title>Don Mills</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1700 Sheppard Ave. E </address><description>
+Sheppard trains run every 5-6 minutes every day.
+
+Connecting surface routes:
+10 Van Horne
+24 Victoria Park
+25 Don Mills
+85 Sheppard East
+139 Finch East
+167 Pharmacy North
+169 Huntingwood
+190 Scarborough Centre Rocket
+224 Victoria Park North</description><georss:point>43.77512232622267 -79.34703826904297</georss:point><geo:Point><geo:lat>43.77512232622267</geo:lat><geo:long>-79.34703826904297</geo:long></geo:Point></item><item><guid>356133</guid><pubDate>Wed, 20 Sep 2006 15:46:39 -0400</pubDate><title>Donlands</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>990 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+56 Leaside
+72 Pape
+83 Jones
+</description><georss:point>43.68044271039701 -79.33729648590088</georss:point><geo:Point><geo:lat>43.68044271039701</geo:lat><geo:long>-79.33729648590088</geo:long></geo:Point></item><item><guid>356084</guid><pubDate>Wed, 20 Sep 2006 15:10:47 -0400</pubDate><title>Downsview</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1035 Sheppard Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+84 Sheppard West
+101 Parc Downsview Park
+104 Faywood
+105 Dufferin North
+106 York University
+107 Keele North
+108 Downsview
+117 Alness
+196 York University Rocket</description><georss:point>43.75051320325138 -79.46230888366699</georss:point><geo:Point><geo:lat>43.75051320325138</geo:lat><geo:long>-79.46230888366699</geo:long></geo:Point></item><item><guid>356104</guid><pubDate>Wed, 20 Sep 2006 15:33:04 -0400</pubDate><title>Dufferin</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1126 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+29 Dufferin T
+329 Dufferin T
+402 Parkdale T
+ 
+T = Transfer Required
+</description><georss:point>43.65986198052727 -79.43540096282959</georss:point><geo:Point><geo:lat>43.65986198052727</geo:lat><geo:long>-79.43540096282959</geo:long></geo:Point></item><item><guid>356125</guid><pubDate>Wed, 20 Sep 2006 15:43:55 -0400</pubDate><title>Dundas</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>300 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+320 Yonge T
+505 Dundas T
+ 
+T = Transfer Required
+</description><georss:point>43.65629145246512 -79.38089847564697</georss:point><geo:Point><geo:lat>43.65629145246512</geo:lat><geo:long>-79.38089847564697</geo:long></geo:Point></item><item><guid>356106</guid><pubDate>Wed, 20 Sep 2006 15:33:21 -0400</pubDate><title>Dundas West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1525 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+40 Junction
+168 Symington
+193 Exhibition Rocket
+306 Carlton
+504 King
+505 Dundas
+</description><georss:point>43.65632250145034 -79.45252418518066</georss:point><geo:Point><geo:lat>43.65632250145034</geo:lat><geo:long>-79.45252418518066</geo:long></geo:Point></item><item><guid>356092</guid><pubDate>Wed, 20 Sep 2006 15:14:04 -0400</pubDate><title>Dupont</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>278 Dupont St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+26 Dupont T
+127 Davenport T
+ 
+T = Transfer Required
+</description><georss:point>43.674941238097645 -79.40663695335388</georss:point><geo:Point><geo:lat>43.674941238097645</geo:lat><geo:long>-79.40663695335388</geo:long></geo:Point></item><item><guid>355465</guid><pubDate>Tue, 19 Sep 2006 17:17:29 -0400</pubDate><title>Eglinton</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2190 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+5 Avenue Rd.
+32 Eglinton West
+34 Eglinton East
+51 Leslie
+54 Lawrence East
+56 Leaside
+61 Avenue Rd. North
+97 Yonge T
+100 Flemingdon Park
+103 Mt. Pleasant North
+305 Eglinton East
+307 Eglinton West
+320 Yonge
+354 Lawrence East
+ 
+T = Transfer Required
+</description><georss:point>43.7067093575883 -79.39832210540771</georss:point><geo:Point><geo:lat>43.7067093575883</geo:lat><geo:long>-79.39832210540771</geo:long></geo:Point></item><item><guid>356089</guid><pubDate>Wed, 20 Sep 2006 15:13:09 -0400</pubDate><title>Eglinton West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1300 Eglinton Ave. W </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+32 Eglinton West
+63 Ossington
+109 Ranee
+316 Ossington
+</description><georss:point>43.69880574982985 -79.43591594696045</georss:point><geo:Point><geo:lat>43.69880574982985</geo:lat><geo:long>-79.43591594696045</geo:long></geo:Point></item><item><guid>356141</guid><pubDate>Wed, 20 Sep 2006 15:51:00 -0400</pubDate><title>Ellesmere</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1025 Ellesmere Ave. </address><description>
+Scarborough RT trains run every 4-5 minutes during the rush hours and every 5-6 minutes outside the rush hours.
+
+Connecting surface routes:
+95 York Mills T
+321 York Mills T
+ 
+T = Transfer Required
+</description><georss:point>43.76678611235089 -79.2762279510498</georss:point><geo:Point><geo:lat>43.76678611235089</geo:lat><geo:long>-79.2762279510498</geo:long></geo:Point></item><item><guid>355422</guid><pubDate>Tue, 19 Sep 2006 16:14:31 -0400</pubDate><title>Finch</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5714 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting bus routes:
+36 Finch West
+39 Finch East
+42 Cummer
+53 Steeles East
+60 Steeles West
+97 Yonge T
+125 Drewry
+199 Finch Rocket
+308 Finch East
+309 Finch West
+320 Yonge T
+
+T = Transfer Required
+</description><georss:point>43.77973928293406 -79.41553115844727</georss:point><geo:Point><geo:lat>43.77973928293406</geo:lat><geo:long>-79.41553115844727</geo:long></geo:Point></item><item><guid>356088</guid><pubDate>Wed, 20 Sep 2006 15:12:46 -0400</pubDate><title>Glencairn</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>785 Glencairn Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+14 Glencairn T
+ 
+T = Transfer Required
+</description><georss:point>43.70951686535267 -79.44121599197388</georss:point><geo:Point><geo:lat>43.70951686535267</geo:lat><geo:long>-79.44121599197388</geo:long></geo:Point></item><item><guid>356134</guid><pubDate>Wed, 20 Sep 2006 15:46:45 -0400</pubDate><title>Greenwood</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1177 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+31 Greenwood
+</description><georss:point>43.68146690624252 -79.33244705200195</georss:point><geo:Point><geo:lat>43.68146690624252</geo:lat><geo:long>-79.33244705200195</geo:long></geo:Point></item><item><guid>356108</guid><pubDate>Wed, 20 Sep 2006 15:33:54 -0400</pubDate><title>High Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1874 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+30 Lambton T
+ 
+T = Transfer Required
+</description><georss:point>43.65359012929569 -79.46531295776367</georss:point><geo:Point><geo:lat>43.65359012929569</geo:lat><geo:long>-79.46531295776367</geo:long></geo:Point></item><item><guid>356115</guid><pubDate>Wed, 20 Sep 2006 15:37:34 -0400</pubDate><title>Islington</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3286 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+37 Islington
+50 Burnhamthorpe
+110 Islington South
+</description><georss:point>43.64464695118206 -79.52337741851807</georss:point><geo:Point><geo:lat>43.64464695118206</geo:lat><geo:long>-79.52337741851807</geo:long></geo:Point></item><item><guid>356112</guid><pubDate>Wed, 20 Sep 2006 15:37:08 -0400</pubDate><title>Jane</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2440 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+26 Dupont T
+35 Jane T
+55 Warren Park T
+312 St. Clair
+ 
+T = Transfer Required
+</description><georss:point>43.649367127789695 -79.48445320129395</georss:point><geo:Point><geo:lat>43.649367127789695</geo:lat><geo:long>-79.48445320129395</geo:long></geo:Point></item><item><guid>356107</guid><pubDate>Wed, 20 Sep 2006 15:33:30 -0400</pubDate><title>Keele</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1733 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+41 Keele
+80 Queensway
+89 Weston
+</description><georss:point>43.65467688311126 -79.45999145507812</georss:point><geo:Point><geo:lat>43.65467688311126</geo:lat><geo:long>-79.45999145507812</geo:long></geo:Point></item><item><guid>356139</guid><pubDate>Wed, 20 Sep 2006 15:50:31 -0400</pubDate><title>Kennedy</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2455 Eglinton Ave. E</address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Schedules: Subway, RT
+ 
+Connecting surface routes:
+12 Kingston Rd.
+20 Cliffside
+21 Brimley
+34 Eglinton East
+43 Kennedy
+57 Midland
+86 Scarborough
+113 Danforth
+116 Morningside
+131 Nugget
+305 Eglinton East
+</description><georss:point>43.73222027154342 -79.26790237426758</georss:point><geo:Point><geo:lat>43.73222027154342</geo:lat><geo:long>-79.26790237426758</geo:long></geo:Point></item><item><guid>356123</guid><pubDate>Wed, 20 Sep 2006 15:43:24 -0400</pubDate><title>King</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>70 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+97 Yonge T
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd. T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+145 Downtown/Humber Bay T
+320 Yonge
+503 Kingston Rd. T
+504 King T
+508 Lake Shore T
+ 
+T = Transfer Required
+</description><georss:point>43.649180812060614 -79.37785148620605</georss:point><geo:Point><geo:lat>43.649180812060614</geo:lat><geo:long>-79.37785148620605</geo:long></geo:Point></item><item><guid>356116</guid><pubDate>Wed, 20 Sep 2006 15:37:57 -0400</pubDate><title>Kipling</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5247 Dundas St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+30 Lambton
+44 Kipling South
+45 Kipling
+46 Martin Grove
+49 Bloor West
+111 East Mall
+112 West Mall
+123 Shorncliffe
+191 Hwy 27 Rocket
+192 Airport Rocket
+300 Bloor-Danforth
+</description><georss:point>43.638559860152576 -79.53410625457764</georss:point><geo:Point><geo:lat>43.638559860152576</geo:lat><geo:long>-79.53410625457764</geo:long></geo:Point></item><item><guid>356105</guid><pubDate>Wed, 20 Sep 2006 15:33:14 -0400</pubDate><title>Lansdowne</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1287 Bloor St. W </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+168 Symington T
+402 Parkdale Community Bus
+ 
+T = Transfer Required
+</description><georss:point>43.65827855515278 -79.44282531738281</georss:point><geo:Point><geo:lat>43.65827855515278</geo:lat><geo:long>-79.44282531738281</geo:long></geo:Point></item><item><guid>355464</guid><pubDate>Tue, 19 Sep 2006 17:15:29 -0400</pubDate><title>Lawrence</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3101 Yonge St. </address><description>
+ 
+Connecting surface routes:
+52 Lawrence West
+97 Yonge T
+124 Sunnybrook
+162 Lawrence-Donway
+ 
+T = Transfer Required
+</description><georss:point>43.72511862794112 -79.40218448638916</georss:point><geo:Point><geo:lat>43.72511862794112</geo:lat><geo:long>-79.40218448638916</geo:long></geo:Point></item><item><guid>356140</guid><pubDate>Wed, 20 Sep 2006 15:50:52 -0400</pubDate><title>Lawrence East</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2444 Lawrence Ave. E </address><description>
+ 
+Connecting surface routes:
+54 Lawrence East
+</description><georss:point>43.75054420347562 -79.27009105682373</georss:point><geo:Point><geo:lat>43.75054420347562</geo:lat><geo:long>-79.27009105682373</geo:long></geo:Point></item><item><guid>356087</guid><pubDate>Wed, 20 Sep 2006 15:12:20 -0400</pubDate><title>Lawrence West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>655 Lawrence Ave. W </address><description>
+ 
+Connecting surface routes:
+52 Lawrence West
+58 Malton
+59 Maple Leaf
+109 Ranee
+400 Lawrence Manor
+</description><georss:point>43.71610080830708 -79.44423079490662</georss:point><geo:Point><geo:lat>43.71610080830708</geo:lat><geo:long>-79.44423079490662</geo:long></geo:Point></item><item><guid>355996</guid><pubDate>Wed, 20 Sep 2006 13:06:14 -0400</pubDate><title>Leslie</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1209 & Sheppard Ave. E </address><description>
+ 
+Connecting surface routes:
+51 Leslie
+85 & Sheppard East T
+ 
+T = Transfer Required
+</description><georss:point>43.77163613277956 -79.3641185760498</georss:point><geo:Point><geo:lat>43.77163613277956</geo:lat><geo:long>-79.3641185760498</geo:long></geo:Point></item><item><guid>356137</guid><pubDate>Wed, 20 Sep 2006 15:47:17 -0400</pubDate><title>Main Street</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2550 Danforth Ave. </address><description>
+ 
+Connecting surface routes:
+20 Cliffside
+23 Dawes
+62 Mortimer
+64 Main
+87 Cosburn
+113 Danforth
+135 Gerrard
+506 Carlton
+</description><georss:point>43.68817030184036 -79.3018913269043</georss:point><geo:Point><geo:lat>43.68817030184036</geo:lat><geo:long>-79.3018913269043</geo:long></geo:Point></item><item><guid>356143</guid><pubDate>Wed, 20 Sep 2006 15:51:23 -0400</pubDate><title>McCowan</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1275 McCowan Rd. </address><description>
+ 
+Connecting surface routes:
+9 Bellamy T
+134 Progress T
+ 
+T = Transfer Required
+</description><georss:point>43.77490541344873 -79.25236701965332</georss:point><geo:Point><geo:lat>43.77490541344873</geo:lat><geo:long>-79.25236701965332</geo:long></geo:Point></item><item><guid>356142</guid><pubDate>Wed, 20 Sep 2006 15:51:12 -0400</pubDate><title>Midland</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2085 Midland Ave. </address><description>
+ 
+Connecting surface routes:
+57 Midland T
+ 
+T = Transfer Required
+</description><georss:point>43.77038105339037 -79.27202224731445</georss:point><geo:Point><geo:lat>43.77038105339037</geo:lat><geo:long>-79.27202224731445</geo:long></geo:Point></item><item><guid>356117</guid><pubDate>Wed, 20 Sep 2006 15:40:22 -0400</pubDate><title>Museum</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>75 Queen's Park </address><description>
+ 
+Connecting surface routes:
+5 Avenue Rd. T
+142 Downtown/Avenue T
+ 
+T = Transfer Required
+</description><georss:point>43.6671265733766 -79.39347267150879</georss:point><geo:Point><geo:lat>43.6671265733766</geo:lat><geo:long>-79.39347267150879</geo:long></geo:Point></item><item><guid>355423</guid><pubDate>Tue, 19 Sep 2006 16:17:43 -0400</pubDate><title>North York Centre</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>5152 Yonge Street </address><description>
+ 
+Connecting surface routes:
+97 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.76836667338831 -79.41269874572754</georss:point><geo:Point><geo:lat>43.76836667338831</geo:lat><geo:long>-79.41269874572754</geo:long></geo:Point></item><item><guid>356113</guid><pubDate>Wed, 20 Sep 2006 15:37:21 -0400</pubDate><title>Old Mill</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2672 Bloor St. W </address><description>
+ 
+Connecting surface routes:
+66 Prince Edward
+</description><georss:point>43.650050280518336 -79.49904441833496</georss:point><geo:Point><geo:lat>43.650050280518336</geo:lat><geo:long>-79.49904441833496</geo:long></geo:Point></item><item><guid>356119</guid><pubDate>Wed, 20 Sep 2006 15:41:27 -0400</pubDate><title>Osgoode</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>250 University Ave. </address><description>
+ 
+Connecting surface routes:
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd. T
+143 Downtown/Beach T
+144 Dowtown/Don Valley T
+501 Queen T
+502 Downtowner T
+ 
+T = Transfer Required
+</description><georss:point>43.65079552917852 -79.38652038574219</georss:point><geo:Point><geo:lat>43.65079552917852</geo:lat><geo:long>-79.38652038574219</geo:long></geo:Point></item><item><guid>356103</guid><pubDate>Wed, 20 Sep 2006 15:32:54 -0400</pubDate><title>Ossington</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>883 Bloor St. W </address><description>
+ 
+Connecting surface routes:
+63 Ossington
+94 Wellesley
+161 Rogers Rd.
+</description><georss:point>43.66197314940332 -79.42557334899902</georss:point><geo:Point><geo:lat>43.66197314940332</geo:lat><geo:long>-79.42557334899902</geo:long></geo:Point></item><item><guid>356132</guid><pubDate>Wed, 20 Sep 2006 15:46:30 -0400</pubDate><title>Pape</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>650 Danforth Ave. </address><description>
+ 
+Connecting surface routes:
+25 Don Mills
+72 Pape
+81 Thorncliffe
+</description><georss:point>43.67898397703966 -79.34484958648682</georss:point><geo:Point><geo:lat>43.67898397703966</geo:lat><geo:long>-79.34484958648682</geo:long></geo:Point></item><item><guid>356124</guid><pubDate>Wed, 20 Sep 2006 15:43:48 -0400</pubDate><title>Queen</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>171 Yonge St. </address><description>
+ 
+Connecting surface routes:
+97 Yonge T
+141 Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+501 Queen T
+502 Downtowner T
+ 
+T = Transfer Required
+</description><georss:point>43.65241020288564 -79.37931060791016</georss:point><geo:Point><geo:lat>43.65241020288564</geo:lat><geo:long>-79.37931060791016</geo:long></geo:Point></item><item><guid>356095</guid><pubDate>Wed, 20 Sep 2006 15:15:49 -0400</pubDate><title>Queen's Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>671 University Ave. </address><description>
+ 
+Connecting surface routes:
+5 Avenue Rd. T
+142 Downtown/Avenue T
+506 Carlton T
+ 
+T = Transfer Required
+</description><georss:point>43.659854218740016 -79.39047932624817</georss:point><geo:Point><geo:lat>43.659854218740016</geo:lat><geo:long>-79.39047932624817</geo:long></geo:Point></item><item><guid>355470</guid><pubDate>Tue, 19 Sep 2006 17:21:00 -0400</pubDate><title>Rosedale</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1009 Yonge St. </address><description>
+ 
+Connecting surface routes:
+82 Rosedale
+97 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.67712171270642 -79.38958883285522</georss:point><geo:Point><geo:lat>43.67712171270642</geo:lat><geo:long>-79.38958883285522</geo:long></geo:Point></item><item><guid>356114</guid><pubDate>Wed, 20 Sep 2006 15:37:27 -0400</pubDate><title>Royal York</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3012 Bloor St. W </address><description>
+ 
+Connecting surface routes:
+15 Evans
+48 Rathburn
+73 Royal York
+76 Royal York South
+</description><georss:point>43.647379730216116 -79.51136112213135</georss:point><geo:Point><geo:lat>43.647379730216116</geo:lat><geo:long>-79.51136112213135</geo:long></geo:Point></item><item><guid>356111</guid><pubDate>Wed, 20 Sep 2006 15:35:51 -0400</pubDate><title>Runnymede</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2218 Bloor St. W </address><description>
+ 
+Connecting surface routes:
+71 Runnymede T
+77 Swansea T
+79 Scarlett Rd. T
+ 
+T = Transfer Required
+</description><georss:point>43.651106046724365 -79.47629928588867</georss:point><geo:Point><geo:lat>43.651106046724365</geo:lat><geo:long>-79.47629928588867</geo:long></geo:Point></item><item><guid>356144</guid><pubDate>Wed, 20 Sep 2006 15:51:43 -0400</pubDate><title>Scarborough Centre</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>Scar. Town Centre </address><description>
+ 
+Connecting surface routes:
+9 Bellamy
+16 McCowan
+21 Brimley
+38 Highland Creek
+43 Kennedy
+129 McCowan North
+130 Middlefield
+131 Nugget
+132 Milner
+133 Neilson
+134 Progress
+169 Huntingwood 
+190 Scarborough Ctr Rocket
+</description><georss:point>43.77471948758769 -79.25717353820801</georss:point><geo:Point><geo:lat>43.77471948758769</geo:lat><geo:long>-79.25717353820801</geo:long></geo:Point></item><item><guid>355425</guid><pubDate>Tue, 19 Sep 2006 16:22:05 -0400</pubDate><title>Sheppard-Yonge</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>4800 Yonge St. 
+Shedules: YUS, S
+ 
+Connecting surface routes:
+84 Sheppard West
+85 Sheppard East
+97 Yonge T
+98 Willowdale-Senlac
+196B York University Rocket
+ 
+T = Transfer Required
+ 
+</description><georss:point>43.76147078210927 -79.41096067428589</georss:point><geo:Point><geo:lat>43.76147078210927</geo:lat><geo:long>-79.41096067428589</geo:long></geo:Point></item><item><guid>356128</guid><pubDate>Wed, 20 Sep 2006 15:45:48 -0400</pubDate><title>Sherbourne</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>420 Bloor St. E </address><description>
+ 
+Connecting surface routes:
+75 Sherbourne T
+ 
+T = Transfer Required
+</description><georss:point>43.67234163636449 -79.37686443328857</georss:point><geo:Point><geo:lat>43.67234163636449</geo:lat><geo:long>-79.37686443328857</geo:long></geo:Point></item><item><guid>356093</guid><pubDate>Wed, 20 Sep 2006 15:14:57 -0400</pubDate><title>Spadina</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>371 Bloor St. W
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+127 Davenport
+510 Spadina
+</description><georss:point>43.666637637989744 -79.40378308296204</georss:point><geo:Point><geo:lat>43.666637637989744</geo:lat><geo:long>-79.40378308296204</geo:long></geo:Point></item><item><guid>356120</guid><pubDate>Wed, 20 Sep 2006 15:41:36 -0400</pubDate><title>St. Andrew</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>147 University Ave. </address><description>
+ 
+Connecting surface routes:
+141Downtown/Mt. Pleasant T
+142 Downtown/Avenue Rd. T
+143 Downtown/Beach T
+144 Downtown/Don Valley T
+503 Kingston Rd. T
+504 King T
+508 Lake Shore T
+ 
+T = Transfer Required
+</description><georss:point>43.64765921197332 -79.38480377197266</georss:point><geo:Point><geo:lat>43.64765921197332</geo:lat><geo:long>-79.38480377197266</geo:long></geo:Point></item><item><guid>355467</guid><pubDate>Tue, 19 Sep 2006 17:18:11 -0400</pubDate><title>St. Clair</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1441 Yonge St. </address><description>
+ 
+Connecting surface routes:
+74 Mt. Pleasant
+88 South Leaside
+97 Yonge T
+512 St. Clair
+ 
+T = Transfer Required
+</description><georss:point>43.688108236798435 -79.39407348632812</georss:point><geo:Point><geo:lat>43.688108236798435</geo:lat><geo:long>-79.39407348632812</geo:long></geo:Point></item><item><guid>356091</guid><pubDate>Wed, 20 Sep 2006 15:13:43 -0400</pubDate><title>St. Clair West</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>370 St. Clair Ave. W </address><description>
+ 
+Connecting surface routes:
+7 Bathurst
+33 Forest Hill
+90 Vaughan
+126 Christie
+512 St. Clair
+</description><georss:point>43.68388766328392 -79.41468358039856</georss:point><geo:Point><geo:lat>43.68388766328392</geo:lat><geo:long>-79.41468358039856</geo:long></geo:Point></item><item><guid>356094</guid><pubDate>Wed, 20 Sep 2006 15:15:20 -0400</pubDate><title>St. George</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>323 Bloor St. W
+Schedules: YUS, BD
+ 
+Connecting surface routes:
+26 Dupont
+</description><georss:point>43.66752237529663 -79.39980268478394</georss:point><geo:Point><geo:lat>43.66752237529663</geo:lat><geo:long>-79.39980268478394</geo:long></geo:Point></item><item><guid>356118</guid><pubDate>Wed, 20 Sep 2006 15:40:43 -0400</pubDate><title>St. Patrick</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>449 University Ave. </address><description>
+ 
+Connecting surface routes:
+142 Downtown/Avenue Rd T
+505 Dundas T
+ 
+T = Transfer Required
+</description><georss:point>43.654832132050906 -79.38823699951172</georss:point><geo:Point><geo:lat>43.654832132050906</geo:lat><geo:long>-79.38823699951172</geo:long></geo:Point></item><item><guid>355468</guid><pubDate>Tue, 19 Sep 2006 17:19:26 -0400</pubDate><title>Summerhill</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>1189 Yonge St. </address><description>
+ 
+Connecting surface routes:
+97 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.68304971997738 -79.3920350074768</georss:point><geo:Point><geo:lat>43.68304971997738</geo:lat><geo:long>-79.3920350074768</geo:long></geo:Point></item><item><guid>356121</guid><pubDate>Wed, 20 Sep 2006 15:41:44 -0400</pubDate><title>Union</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>55 Front St. W </address><description>
+ 
+Connecting surface routes:
+6 Bay T
+65 Parliament T
+72 Pape T
+97 Yonge T
+172 Cherry St. T
+503 Kingston Rd. T
+509 Harbourfront T
+510 Spadina T
+ 
+T = Transfer Required
+</description><georss:point>43.645609648889256 -79.38064098358154</georss:point><geo:Point><geo:lat>43.645609648889256</geo:lat><geo:long>-79.38064098358154</geo:long></geo:Point></item><item><guid>356138</guid><pubDate>Wed, 20 Sep 2006 15:47:26 -0400</pubDate><title>Victoria Park</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>777 Victoria Park Ave. </address><description>
+ 
+Connecting surface routes:
+12 Kingston Rd.
+24 Victoria Park
+67 Pharmacy
+404 
+</description><georss:point>43.69437648171791 -79.28970336914062</georss:point><geo:Point><geo:lat>43.69437648171791</geo:lat><geo:long>-79.28970336914062</geo:long></geo:Point></item><item><guid>356146</guid><pubDate>Wed, 20 Sep 2006 15:53:16 -0400</pubDate><title>Warden</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>3276 St. Clair Ave. E </address><description>
+ 
+Connecting surface routes:
+9 Bellamy
+16 McCowan
+17 Birchmount
+68 Warden
+69 Warden South
+70 O'Connor
+102 Markham Rd.
+135 Gerrard
+</description><georss:point>43.7119364902909 -79.28103446960449</georss:point><geo:Point><geo:lat>43.7119364902909</geo:lat><geo:long>-79.28103446960449</geo:long></geo:Point></item><item><guid>356127</guid><pubDate>Wed, 20 Sep 2006 15:44:11 -0400</pubDate><title>Wellesley</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>551 Yonge. St </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+ 
+Connecting surface routes:
+94 Wellesley
+97 Yonge T
+320 Yonge T
+ 
+T = Transfer Required
+</description><georss:point>43.66482931854453 -79.3846321105957</georss:point><geo:Point><geo:lat>43.66482931854453</geo:lat><geo:long>-79.3846321105957</geo:long></geo:Point></item><item><guid>356085</guid><pubDate>Wed, 20 Sep 2006 15:11:22 -0400</pubDate><title>Wilson</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>570 Wilson Ave. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+29 Dufferin
+96 Wilson
+104 Faywood
+106 York University
+108 Downsview
+117 Alness
+120 Calvington
+160 Bathurst North
+165 Weston Rd.
+329 Dufferin
+</description><georss:point>43.73398779868292 -79.44994926452637</georss:point><geo:Point><geo:lat>43.73398779868292</geo:lat><geo:long>-79.44994926452637</geo:long></geo:Point></item><item><guid>356136</guid><pubDate>Wed, 20 Sep 2006 15:47:06 -0400</pubDate><title>Woodbine</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>2072 Danforth Ave. </address><description>
+Bloor-Danforth trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+91 Woodbine
+92 Woodbine South</description><georss:point>43.685501447045176 -79.31339263916016</georss:point><geo:Point><geo:lat>43.685501447045176</geo:lat><geo:long>-79.31339263916016</geo:long></geo:Point></item><item><guid>355426</guid><pubDate>Tue, 19 Sep 2006 16:23:33 -0400</pubDate><title>York Mills</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>4015 Yonge St. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+78 St. Andrews
+95 York Mills 
+96 Wilson 
+97 Yonge T
+115 Silver Hills 
+122 Graydon Hall 
+165 Weston Rd. North
+319 Wilson
+320 Yonge
+321 York Mills
+
+T = Transfer Required
+</description><georss:point>43.74406480759712 -79.40677642822266</georss:point><geo:Point><geo:lat>43.74406480759712</geo:lat><geo:long>-79.40677642822266</geo:long></geo:Point></item><item><guid>356086</guid><pubDate>Wed, 20 Sep 2006 15:11:38 -0400</pubDate><title>Yorkdale</title><link>http://www.mapbuilder.net/users/gregsmith/23405</link><address>Yorkdale Shopping Ctr. </address><description>
+Yonge-University-Spadina trains run every 2-3 minutes during the rush hours and every 4-5 minutes outside the rush hours.
+
+Connecting surface routes:
+109 Ranee T
+ 
+T = Transfer Required
+</description><georss:point>43.725103121247834 -79.44767475128174</georss:point><geo:Point><geo:lat>43.725103121247834</geo:lat><geo:long>-79.44767475128174</geo:long></geo:Point></item></root>
